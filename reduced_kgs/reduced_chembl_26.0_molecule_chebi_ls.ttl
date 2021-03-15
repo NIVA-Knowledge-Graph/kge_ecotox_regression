@@ -1,0 +1,810 @@
+@prefix ns1: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://cfpub.epa.gov/ecotox/cas/10025737> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_53351> .
+
+<https://cfpub.epa.gov/ecotox/cas/10028156> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_25812> .
+
+<https://cfpub.epa.gov/ecotox/cas/100414> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16101> .
+
+<https://cfpub.epa.gov/ecotox/cas/100425> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27452> .
+
+<https://cfpub.epa.gov/ecotox/cas/10043353> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_33118> .
+
+<https://cfpub.epa.gov/ecotox/cas/10043524> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_3312> .
+
+<https://cfpub.epa.gov/ecotox/cas/100447> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_615597> .
+
+<https://cfpub.epa.gov/ecotox/cas/100516> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17987> .
+
+<https://cfpub.epa.gov/ecotox/cas/100527> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17169> .
+
+<https://cfpub.epa.gov/ecotox/cas/100630> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27924> .
+
+<https://cfpub.epa.gov/ecotox/cas/100663> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16579> .
+
+<https://cfpub.epa.gov/ecotox/cas/100970> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_6824> .
+
+<https://cfpub.epa.gov/ecotox/cas/100986854> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_63598> .
+
+<https://cfpub.epa.gov/ecotox/cas/101815> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_38884> .
+
+<https://cfpub.epa.gov/ecotox/cas/10236585> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16633> .
+
+<https://cfpub.epa.gov/ecotox/cas/102716> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28621> .
+
+<https://cfpub.epa.gov/ecotox/cas/10361372> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_63317> .
+
+<https://cfpub.epa.gov/ecotox/cas/103651> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_42630> .
+
+<https://cfpub.epa.gov/ecotox/cas/103822> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30745> .
+
+<https://cfpub.epa.gov/ecotox/cas/103844> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28884> .
+
+<https://cfpub.epa.gov/ecotox/cas/103855> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_46261> .
+
+<https://cfpub.epa.gov/ecotox/cas/104767> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16011> .
+
+<https://cfpub.epa.gov/ecotox/cas/10476854> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_36383> .
+
+<https://cfpub.epa.gov/ecotox/cas/105602> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28579> .
+
+<https://cfpub.epa.gov/ecotox/cas/106229> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_50462> .
+
+<https://cfpub.epa.gov/ecotox/cas/106241> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17447> .
+
+<https://cfpub.epa.gov/ecotox/cas/106445> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17847> .
+
+<https://cfpub.epa.gov/ecotox/cas/1066519> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28812> .
+
+<https://cfpub.epa.gov/ecotox/cas/106898> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_37144> .
+
+<https://cfpub.epa.gov/ecotox/cas/106934> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28534> .
+
+<https://cfpub.epa.gov/ecotox/cas/107028> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15368> .
+
+<https://cfpub.epa.gov/ecotox/cas/107051> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_82379> .
+
+<https://cfpub.epa.gov/ecotox/cas/107062> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27789> .
+
+<https://cfpub.epa.gov/ecotox/cas/107073> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28200> .
+
+<https://cfpub.epa.gov/ecotox/cas/107131> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28217> .
+
+<https://cfpub.epa.gov/ecotox/cas/107153> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30347> .
+
+<https://cfpub.epa.gov/ecotox/cas/1071836> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27744> .
+
+<https://cfpub.epa.gov/ecotox/cas/107197> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28905> .
+
+<https://cfpub.epa.gov/ecotox/cas/107222> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34779> .
+
+<https://cfpub.epa.gov/ecotox/cas/107926> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30772> .
+
+<https://cfpub.epa.gov/ecotox/cas/107937> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_41131> .
+
+<https://cfpub.epa.gov/ecotox/cas/108247> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_36610> .
+
+<https://cfpub.epa.gov/ecotox/cas/108316> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_474859> .
+
+<https://cfpub.epa.gov/ecotox/cas/108394> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17231> .
+
+<https://cfpub.epa.gov/ecotox/cas/108463> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27810> .
+
+<https://cfpub.epa.gov/ecotox/cas/108736> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16204> .
+
+<https://cfpub.epa.gov/ecotox/cas/108883> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17578> .
+
+<https://cfpub.epa.gov/ecotox/cas/108907> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28097> .
+
+<https://cfpub.epa.gov/ecotox/cas/108930> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_18099> .
+
+<https://cfpub.epa.gov/ecotox/cas/108941> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17854> .
+
+<https://cfpub.epa.gov/ecotox/cas/108952> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15882> .
+
+<https://cfpub.epa.gov/ecotox/cas/109524> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17418> .
+
+<https://cfpub.epa.gov/ecotox/cas/109762> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15725> .
+
+<https://cfpub.epa.gov/ecotox/cas/109897> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_85259> .
+
+<https://cfpub.epa.gov/ecotox/cas/109977> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_19203> .
+
+<https://cfpub.epa.gov/ecotox/cas/109999> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_26911> .
+
+<https://cfpub.epa.gov/ecotox/cas/110009> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35559> .
+
+<https://cfpub.epa.gov/ecotox/cas/110021> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30856> .
+
+<https://cfpub.epa.gov/ecotox/cas/110167> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_18300> .
+
+<https://cfpub.epa.gov/ecotox/cas/110543> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_29021> .
+
+<https://cfpub.epa.gov/ecotox/cas/110805> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_46788> .
+
+<https://cfpub.epa.gov/ecotox/cas/110861> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16227> .
+
+<https://cfpub.epa.gov/ecotox/cas/110918> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34856> .
+
+<https://cfpub.epa.gov/ecotox/cas/110941> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17859> .
+
+<https://cfpub.epa.gov/ecotox/cas/111148> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_45571> .
+
+<https://cfpub.epa.gov/ecotox/cas/111422> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28123> .
+
+<https://cfpub.epa.gov/ecotox/cas/111762> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_63921> .
+
+<https://cfpub.epa.gov/ecotox/cas/111875> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16188> .
+
+<https://cfpub.epa.gov/ecotox/cas/111900> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_40572> .
+
+<https://cfpub.epa.gov/ecotox/cas/112050> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_29019> .
+
+<https://cfpub.epa.gov/ecotox/cas/112276> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_44926> .
+
+<https://cfpub.epa.gov/ecotox/cas/112301> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28903> .
+
+<https://cfpub.epa.gov/ecotox/cas/112378> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32368> .
+
+<https://cfpub.epa.gov/ecotox/cas/112425> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_87499> .
+
+<https://cfpub.epa.gov/ecotox/cas/112492> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_44842> .
+
+<https://cfpub.epa.gov/ecotox/cas/112801> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16196> .
+
+<https://cfpub.epa.gov/ecotox/cas/115866> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35033> .
+
+<https://cfpub.epa.gov/ecotox/cas/117817> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17747> .
+
+<https://cfpub.epa.gov/ecotox/cas/118741> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_5692> .
+
+<https://cfpub.epa.gov/ecotox/cas/118967> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_46053> .
+
+<https://cfpub.epa.gov/ecotox/cas/119619> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_41308> .
+
+<https://cfpub.epa.gov/ecotox/cas/119653> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16092> .
+
+<https://cfpub.epa.gov/ecotox/cas/120127> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35298> .
+
+<https://cfpub.epa.gov/ecotox/cas/120514> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_41237> .
+
+<https://cfpub.epa.gov/ecotox/cas/120729> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16881> .
+
+<https://cfpub.epa.gov/ecotox/cas/120809> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_18135> .
+
+<https://cfpub.epa.gov/ecotox/cas/120923> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16486> .
+
+<https://cfpub.epa.gov/ecotox/cas/12125029> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_31206> .
+
+<https://cfpub.epa.gov/ecotox/cas/121324> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_48408> .
+
+<https://cfpub.epa.gov/ecotox/cas/121335> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_18346> .
+
+<https://cfpub.epa.gov/ecotox/cas/121448> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35026> .
+
+<https://cfpub.epa.gov/ecotox/cas/121573> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27500> .
+
+<https://cfpub.epa.gov/ecotox/cas/121697> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16269> .
+
+<https://cfpub.epa.gov/ecotox/cas/121755> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_6651> .
+
+<https://cfpub.epa.gov/ecotox/cas/122394> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_4640> .
+
+<https://cfpub.epa.gov/ecotox/cas/123035> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32915> .
+
+<https://cfpub.epa.gov/ecotox/cas/123308> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17602> .
+
+<https://cfpub.epa.gov/ecotox/cas/123319> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17594> .
+
+<https://cfpub.epa.gov/ecotox/cas/123353> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17221> .
+
+<https://cfpub.epa.gov/ecotox/cas/123386> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17153> .
+
+<https://cfpub.epa.gov/ecotox/cas/123546> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_14750> .
+
+<https://cfpub.epa.gov/ecotox/cas/123728> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15743> .
+
+<https://cfpub.epa.gov/ecotox/cas/124049> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30832> .
+
+<https://cfpub.epa.gov/ecotox/cas/124072> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28837> .
+
+<https://cfpub.epa.gov/ecotox/cas/124185> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_41808> .
+
+<https://cfpub.epa.gov/ecotox/cas/124403> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17170> .
+
+<https://cfpub.epa.gov/ecotox/cas/126330> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_74794> .
+
+<https://cfpub.epa.gov/ecotox/cas/126738> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35019> .
+
+<https://cfpub.epa.gov/ecotox/cas/127082> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32029> .
+
+<https://cfpub.epa.gov/ecotox/cas/127093> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32954> .
+
+<https://cfpub.epa.gov/ecotox/cas/127184> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17300> .
+
+<https://cfpub.epa.gov/ecotox/cas/127195> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_84254> .
+
+<https://cfpub.epa.gov/ecotox/cas/127275> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_39> .
+
+<https://cfpub.epa.gov/ecotox/cas/128370> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34247> .
+
+<https://cfpub.epa.gov/ecotox/cas/129000> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_39106> .
+
+<https://cfpub.epa.gov/ecotox/cas/130154> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27418> .
+
+<https://cfpub.epa.gov/ecotox/cas/1305620> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_31341> .
+
+<https://cfpub.epa.gov/ecotox/cas/1305788> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_31344> .
+
+<https://cfpub.epa.gov/ecotox/cas/1310583> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32035> .
+
+<https://cfpub.epa.gov/ecotox/cas/1310732> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32145> .
+
+<https://cfpub.epa.gov/ecotox/cas/131113> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_4609> .
+
+<https://cfpub.epa.gov/ecotox/cas/1314621> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30045> .
+
+<https://cfpub.epa.gov/ecotox/cas/134203> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_73244> .
+
+<https://cfpub.epa.gov/ecotox/cas/134523005> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_39548> .
+
+<https://cfpub.epa.gov/ecotox/cas/134623> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_7071> .
+
+<https://cfpub.epa.gov/ecotox/cas/13463417> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32076> .
+
+<https://cfpub.epa.gov/ecotox/cas/13510491> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_53473> .
+
+<https://cfpub.epa.gov/ecotox/cas/13523869> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_8214> .
+
+<https://cfpub.epa.gov/ecotox/cas/137268> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_9495> .
+
+<https://cfpub.epa.gov/ecotox/cas/138863> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15384> .
+
+<https://cfpub.epa.gov/ecotox/cas/139139> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_44557> .
+
+<https://cfpub.epa.gov/ecotox/cas/140885> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_82327> .
+
+<https://cfpub.epa.gov/ecotox/cas/141435> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16000> .
+
+<https://cfpub.epa.gov/ecotox/cas/141537> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_62965> .
+
+<https://cfpub.epa.gov/ecotox/cas/141822> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30794> .
+
+<https://cfpub.epa.gov/ecotox/cas/141979> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_4893> .
+
+<https://cfpub.epa.gov/ecotox/cas/142621> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30776> .
+
+<https://cfpub.epa.gov/ecotox/cas/142825> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_43098> .
+
+<https://cfpub.epa.gov/ecotox/cas/143077> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30805> .
+
+<https://cfpub.epa.gov/ecotox/cas/143088> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35986> .
+
+<https://cfpub.epa.gov/ecotox/cas/144490> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30775> .
+
+<https://cfpub.epa.gov/ecotox/cas/144558> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32139> .
+
+<https://cfpub.epa.gov/ecotox/cas/144627> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16995> .
+
+<https://cfpub.epa.gov/ecotox/cas/148185> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_82587> .
+
+<https://cfpub.epa.gov/ecotox/cas/148243> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_48981> .
+
+<https://cfpub.epa.gov/ecotox/cas/151213> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_8984> .
+
+<https://cfpub.epa.gov/ecotox/cas/151564> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30969> .
+
+<https://cfpub.epa.gov/ecotox/cas/15307865> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_47381> .
+
+<https://cfpub.epa.gov/ecotox/cas/154212> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_6472> .
+
+<https://cfpub.epa.gov/ecotox/cas/1634044> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27642> .
+
+<https://cfpub.epa.gov/ecotox/cas/1643192> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_51993> .
+
+<https://cfpub.epa.gov/ecotox/cas/1746016> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28119> .
+
+<https://cfpub.epa.gov/ecotox/cas/1763231> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_39421> .
+
+<https://cfpub.epa.gov/ecotox/cas/1910425> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28786> .
+
+<https://cfpub.epa.gov/ecotox/cas/206440> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_33083> .
+
+<https://cfpub.epa.gov/ecotox/cas/218019> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_51687> .
+
+<https://cfpub.epa.gov/ecotox/cas/2216515> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15409> .
+
+<https://cfpub.epa.gov/ecotox/cas/25013165> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_76357> .
+
+<https://cfpub.epa.gov/ecotox/cas/260946> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_36420> .
+
+<https://cfpub.epa.gov/ecotox/cas/26628228> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_278547> .
+
+<https://cfpub.epa.gov/ecotox/cas/26787780> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_2676> .
+
+<https://cfpub.epa.gov/ecotox/cas/275514> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_31249> .
+
+<https://cfpub.epa.gov/ecotox/cas/2759286> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_83537> .
+
+<https://cfpub.epa.gov/ecotox/cas/281232> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_40519> .
+
+<https://cfpub.epa.gov/ecotox/cas/2921882> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34631> .
+
+<https://cfpub.epa.gov/ecotox/cas/29232937> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_38843> .
+
+<https://cfpub.epa.gov/ecotox/cas/302012> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15571> .
+
+<https://cfpub.epa.gov/ecotox/cas/302170> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28142> .
+
+<https://cfpub.epa.gov/ecotox/cas/31431397> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_6704> .
+
+<https://cfpub.epa.gov/ecotox/cas/33125972> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_4910> .
+
+<https://cfpub.epa.gov/ecotox/cas/333200> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30951> .
+
+<https://cfpub.epa.gov/ecotox/cas/333415> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34682> .
+
+<https://cfpub.epa.gov/ecotox/cas/334485> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30813> .
+
+<https://cfpub.epa.gov/ecotox/cas/335671> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35549> .
+
+<https://cfpub.epa.gov/ecotox/cas/3483123> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_42170> .
+
+<https://cfpub.epa.gov/ecotox/cas/357573> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_3193> .
+
+<https://cfpub.epa.gov/ecotox/cas/3604873> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16688> .
+
+<https://cfpub.epa.gov/ecotox/cas/389082> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_100147> .
+
+<https://cfpub.epa.gov/ecotox/cas/404864> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_3374> .
+
+<https://cfpub.epa.gov/ecotox/cas/42399417> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_101278> .
+
+<https://cfpub.epa.gov/ecotox/cas/446720> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28088> .
+
+<https://cfpub.epa.gov/ecotox/cas/458377> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_3962> .
+
+<https://cfpub.epa.gov/ecotox/cas/463569> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_29200> .
+
+<https://cfpub.epa.gov/ecotox/cas/49562289> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_5001> .
+
+<https://cfpub.epa.gov/ecotox/cas/496117> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_37911> .
+
+<https://cfpub.epa.gov/ecotox/cas/497198> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_29377> .
+
+<https://cfpub.epa.gov/ecotox/cas/499752> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_3440> .
+
+<https://cfpub.epa.gov/ecotox/cas/50000> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16842> .
+
+<https://cfpub.epa.gov/ecotox/cas/50022> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_41879> .
+
+<https://cfpub.epa.gov/ecotox/cas/50180> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_4027> .
+
+<https://cfpub.epa.gov/ecotox/cas/50248> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_8378> .
+
+<https://cfpub.epa.gov/ecotox/cas/50271> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27974> .
+
+<https://cfpub.epa.gov/ecotox/cas/50282> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16469> .
+
+<https://cfpub.epa.gov/ecotox/cas/50293> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16130> .
+
+<https://cfpub.epa.gov/ecotox/cas/50328> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_29865> .
+
+<https://cfpub.epa.gov/ecotox/cas/503742> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28484> .
+
+<https://cfpub.epa.gov/ecotox/cas/50782> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15365> .
+
+<https://cfpub.epa.gov/ecotox/cas/514103> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28987> .
+
+<https://cfpub.epa.gov/ecotox/cas/51481619> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_3699> .
+
+<https://cfpub.epa.gov/ecotox/cas/51796> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17967> .
+
+<https://cfpub.epa.gov/ecotox/cas/52315078> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_4042> .
+
+<https://cfpub.epa.gov/ecotox/cas/52539> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_77733> .
+
+<https://cfpub.epa.gov/ecotox/cas/525666> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_8499> .
+
+<https://cfpub.epa.gov/ecotox/cas/525826> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_42491> .
+
+<https://cfpub.epa.gov/ecotox/cas/52645531> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34911> .
+
+<https://cfpub.epa.gov/ecotox/cas/52686> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_6908> .
+
+<https://cfpub.epa.gov/ecotox/cas/52918635> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_4388> .
+
+<https://cfpub.epa.gov/ecotox/cas/53167> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17263> .
+
+<https://cfpub.epa.gov/ecotox/cas/5329146> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_9330> .
+
+<https://cfpub.epa.gov/ecotox/cas/533744> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_75212> .
+
+<https://cfpub.epa.gov/ecotox/cas/535831> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_18123> .
+
+<https://cfpub.epa.gov/ecotox/cas/53861> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_49662> .
+
+<https://cfpub.epa.gov/ecotox/cas/54217> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_9180> .
+
+<https://cfpub.epa.gov/ecotox/cas/55630> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28787> .
+
+<https://cfpub.epa.gov/ecotox/cas/557346> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_62984> .
+
+<https://cfpub.epa.gov/ecotox/cas/56073100> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_81892> .
+
+<https://cfpub.epa.gov/ecotox/cas/56235> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27385> .
+
+<https://cfpub.epa.gov/ecotox/cas/56382> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27928> .
+
+<https://cfpub.epa.gov/ecotox/cas/56553> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_51348> .
+
+<https://cfpub.epa.gov/ecotox/cas/56815> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17754> .
+
+<https://cfpub.epa.gov/ecotox/cas/57136> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16199> .
+
+<https://cfpub.epa.gov/ecotox/cas/57249> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28973> .
+
+<https://cfpub.epa.gov/ecotox/cas/5786210> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_3766> .
+
+<https://cfpub.epa.gov/ecotox/cas/58082> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27732> .
+
+<https://cfpub.epa.gov/ecotox/cas/58184> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27436> .
+
+<https://cfpub.epa.gov/ecotox/cas/58220> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17347> .
+
+<https://cfpub.epa.gov/ecotox/cas/5835267> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_6039> .
+
+<https://cfpub.epa.gov/ecotox/cas/584849> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_53556> .
+
+<https://cfpub.epa.gov/ecotox/cas/59870> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_44368> .
+
+<https://cfpub.epa.gov/ecotox/cas/60242> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_41218> .
+
+<https://cfpub.epa.gov/ecotox/cas/60355> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27856> .
+
+<https://cfpub.epa.gov/ecotox/cas/616455> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_36592> .
+
+<https://cfpub.epa.gov/ecotox/cas/61734> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_6872> .
+
+<https://cfpub.epa.gov/ecotox/cas/61869087> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_7936> .
+
+<https://cfpub.epa.gov/ecotox/cas/62533> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17296> .
+
+<https://cfpub.epa.gov/ecotox/cas/62566> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_36946> .
+
+<https://cfpub.epa.gov/ecotox/cas/62737> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34690> .
+
+<https://cfpub.epa.gov/ecotox/cas/63058> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16422> .
+
+<https://cfpub.epa.gov/ecotox/cas/64186> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30751> .
+
+<https://cfpub.epa.gov/ecotox/cas/64197> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15366> .
+
+<https://cfpub.epa.gov/ecotox/cas/64436131> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_82392> .
+
+<https://cfpub.epa.gov/ecotox/cas/6484522> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_63038> .
+
+<https://cfpub.epa.gov/ecotox/cas/65271809> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_50729> .
+
+<https://cfpub.epa.gov/ecotox/cas/65850> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30746> .
+
+<https://cfpub.epa.gov/ecotox/cas/66762> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_4513> .
+
+<https://cfpub.epa.gov/ecotox/cas/66977> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27616> .
+
+<https://cfpub.epa.gov/ecotox/cas/67436> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35739> .
+
+<https://cfpub.epa.gov/ecotox/cas/67470> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_412516> .
+
+<https://cfpub.epa.gov/ecotox/cas/6753986> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_5768> .
+
+<https://cfpub.epa.gov/ecotox/cas/67561> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17790> .
+
+<https://cfpub.epa.gov/ecotox/cas/67641> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15347> .
+
+<https://cfpub.epa.gov/ecotox/cas/67663> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35255> .
+
+<https://cfpub.epa.gov/ecotox/cas/67685> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28262> .
+
+<https://cfpub.epa.gov/ecotox/cas/67721> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_39227> .
+
+<https://cfpub.epa.gov/ecotox/cas/680319> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_24565> .
+
+<https://cfpub.epa.gov/ecotox/cas/68122> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17741> .
+
+<https://cfpub.epa.gov/ecotox/cas/69534> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28971> .
+
+<https://cfpub.epa.gov/ecotox/cas/69727> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16914> .
+
+<https://cfpub.epa.gov/ecotox/cas/70458967> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_100246> .
+
+<https://cfpub.epa.gov/ecotox/cas/71238> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28831> .
+
+<https://cfpub.epa.gov/ecotox/cas/71363> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28885> .
+
+<https://cfpub.epa.gov/ecotox/cas/71432> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16716> .
+
+<https://cfpub.epa.gov/ecotox/cas/7173515> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_79935> .
+
+<https://cfpub.epa.gov/ecotox/cas/72480> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16866> .
+
+<https://cfpub.epa.gov/ecotox/cas/7447394> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_49553> .
+
+<https://cfpub.epa.gov/ecotox/cas/7447407> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32588> .
+
+<https://cfpub.epa.gov/ecotox/cas/7447418> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_48607> .
+
+<https://cfpub.epa.gov/ecotox/cas/74839> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_39275> .
+
+<https://cfpub.epa.gov/ecotox/cas/74873> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_36014> .
+
+<https://cfpub.epa.gov/ecotox/cas/7487889> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32599> .
+
+<https://cfpub.epa.gov/ecotox/cas/74884> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_39282> .
+
+<https://cfpub.epa.gov/ecotox/cas/74895> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16830> .
+
+<https://cfpub.epa.gov/ecotox/cas/74908> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_18407> .
+
+<https://cfpub.epa.gov/ecotox/cas/75014> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28509> .
+
+<https://cfpub.epa.gov/ecotox/cas/75058> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_38472> .
+
+<https://cfpub.epa.gov/ecotox/cas/75070> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15343> .
+
+<https://cfpub.epa.gov/ecotox/cas/75092> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15767> .
+
+<https://cfpub.epa.gov/ecotox/cas/75150> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_23012> .
+
+<https://cfpub.epa.gov/ecotox/cas/75218> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27561> .
+
+<https://cfpub.epa.gov/ecotox/cas/75252> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_38682> .
+
+<https://cfpub.epa.gov/ecotox/cas/75354> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34031> .
+
+<https://cfpub.epa.gov/ecotox/cas/75478> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_37758> .
+
+<https://cfpub.epa.gov/ecotox/cas/75503> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_18139> .
+
+<https://cfpub.epa.gov/ecotox/cas/75525> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_77701> .
+
+<https://cfpub.epa.gov/ecotox/cas/7558794> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34683> .
+
+<https://cfpub.epa.gov/ecotox/cas/75649> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_44639> .
+
+<https://cfpub.epa.gov/ecotox/cas/75865> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15348> .
+
+<https://cfpub.epa.gov/ecotox/cas/75898> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_42330> .
+
+<https://cfpub.epa.gov/ecotox/cas/75912> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_64090> .
+
+<https://cfpub.epa.gov/ecotox/cas/7601549> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_37583> .
+
+<https://cfpub.epa.gov/ecotox/cas/76017> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_76287> .
+
+<https://cfpub.epa.gov/ecotox/cas/76039> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30956> .
+
+<https://cfpub.epa.gov/ecotox/cas/76051> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_45892> .
+
+<https://cfpub.epa.gov/ecotox/cas/76062> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_39285> .
+
+<https://cfpub.epa.gov/ecotox/cas/76222> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_36773> .
+
+<https://cfpub.epa.gov/ecotox/cas/7631994> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_63005> .
+
+<https://cfpub.epa.gov/ecotox/cas/7632000> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_78870> .
+
+<https://cfpub.epa.gov/ecotox/cas/7637072> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_33093> .
+
+<https://cfpub.epa.gov/ecotox/cas/7646857> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_49976> .
+
+<https://cfpub.epa.gov/ecotox/cas/7647010> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17883> .
+
+<https://cfpub.epa.gov/ecotox/cas/7647145> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_26710> .
+
+<https://cfpub.epa.gov/ecotox/cas/7664417> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16134> .
+
+<https://cfpub.epa.gov/ecotox/cas/7664939> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_26836> .
+
+<https://cfpub.epa.gov/ecotox/cas/7681110> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_8346> .
+
+<https://cfpub.epa.gov/ecotox/cas/7681494> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28741> .
+
+<https://cfpub.epa.gov/ecotox/cas/7681529> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32146> .
+
+<https://cfpub.epa.gov/ecotox/cas/7681825> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_33167> .
+
+<https://cfpub.epa.gov/ecotox/cas/768945> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_2618> .
+
+<https://cfpub.epa.gov/ecotox/cas/7697372> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_48107> .
+
+<https://cfpub.epa.gov/ecotox/cas/77098> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34914> .
+
+<https://cfpub.epa.gov/ecotox/cas/7720787> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_75832> .
+
+<https://cfpub.epa.gov/ecotox/cas/7722841> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16240> .
+
+<https://cfpub.epa.gov/ecotox/cas/7722885> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_71240> .
+
+<https://cfpub.epa.gov/ecotox/cas/7733020> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35176> .
+
+<https://cfpub.epa.gov/ecotox/cas/7757791> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_63043> .
+
+<https://cfpub.epa.gov/ecotox/cas/7757826> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32149> .
+
+<https://cfpub.epa.gov/ecotox/cas/7757837> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_86477> .
+
+<https://cfpub.epa.gov/ecotox/cas/7758192> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_78667> .
+
+<https://cfpub.epa.gov/ecotox/cas/7761888> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32130> .
+
+<https://cfpub.epa.gov/ecotox/cas/7772987> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32150> .
+
+<https://cfpub.epa.gov/ecotox/cas/7773015> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_63041> .
+
+<https://cfpub.epa.gov/ecotox/cas/77781> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_59050> .
+
+<https://cfpub.epa.gov/ecotox/cas/7778189> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_31346> .
+
+<https://cfpub.epa.gov/ecotox/cas/7778394> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_18231> .
+
+<https://cfpub.epa.gov/ecotox/cas/7778770> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_63036> .
+
+<https://cfpub.epa.gov/ecotox/cas/7778805> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32036> .
+
+<https://cfpub.epa.gov/ecotox/cas/7783008> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_26642> .
+
+<https://cfpub.epa.gov/ecotox/cas/7783064> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16136> .
+
+<https://cfpub.epa.gov/ecotox/cas/7783202> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_62946> .
+
+<https://cfpub.epa.gov/ecotox/cas/7783280> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_63051> .
+
+<https://cfpub.epa.gov/ecotox/cas/7784465> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_29678> .
+
+<https://cfpub.epa.gov/ecotox/cas/7785708> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28261> .
+
+<https://cfpub.epa.gov/ecotox/cas/7785877> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_86360> .
+
+<https://cfpub.epa.gov/ecotox/cas/7786303> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_6636> .
+
+<https://cfpub.epa.gov/ecotox/cas/7789380> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_75229> .
+
+<https://cfpub.epa.gov/ecotox/cas/7790923> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_24757> .
+
+<https://cfpub.epa.gov/ecotox/cas/7791119> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_78672> .
+
+<https://cfpub.epa.gov/ecotox/cas/77929> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30769> .
+
+<https://cfpub.epa.gov/ecotox/cas/7803512> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30278> .
+
+<https://cfpub.epa.gov/ecotox/cas/78115> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_25879> .
+
+<https://cfpub.epa.gov/ecotox/cas/78706> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17580> .
+
+<https://cfpub.epa.gov/ecotox/cas/78795> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35194> .
+
+<https://cfpub.epa.gov/ecotox/cas/78900> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30630> .
+
+<https://cfpub.epa.gov/ecotox/cas/78933> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28398> .
+
+<https://cfpub.epa.gov/ecotox/cas/79016> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16602> .
+
+<https://cfpub.epa.gov/ecotox/cas/79061> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28619> .
+
+<https://cfpub.epa.gov/ecotox/cas/79094> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_30768> .
+
+<https://cfpub.epa.gov/ecotox/cas/79107> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_18308> .
+
+<https://cfpub.epa.gov/ecotox/cas/79902639> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_9150> .
+
+<https://cfpub.epa.gov/ecotox/cas/79925> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_3830> .
+
+<https://cfpub.epa.gov/ecotox/cas/80057> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_33216> .
+
+<https://cfpub.epa.gov/ecotox/cas/80159> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_78673> .
+
+<https://cfpub.epa.gov/ecotox/cas/80262> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32320> .
+
+<https://cfpub.epa.gov/ecotox/cas/81072> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32111> .
+
+<https://cfpub.epa.gov/ecotox/cas/81812> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_87732> .
+
+<https://cfpub.epa.gov/ecotox/cas/82419361> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_7731> .
+
+<https://cfpub.epa.gov/ecotox/cas/83329> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_22154> .
+
+<https://cfpub.epa.gov/ecotox/cas/83341> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_9171> .
+
+<https://cfpub.epa.gov/ecotox/cas/83896> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_8711> .
+
+<https://cfpub.epa.gov/ecotox/cas/84651> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_40448> .
+
+<https://cfpub.epa.gov/ecotox/cas/84662> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34698> .
+
+<https://cfpub.epa.gov/ecotox/cas/84742> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34687> .
+
+<https://cfpub.epa.gov/ecotox/cas/85416> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_38817> .
+
+<https://cfpub.epa.gov/ecotox/cas/85449> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_36605> .
+
+<https://cfpub.epa.gov/ecotox/cas/85721331> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_100241> .
+
+<https://cfpub.epa.gov/ecotox/cas/86737> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28266> .
+
+<https://cfpub.epa.gov/ecotox/cas/86748> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27543> .
+
+<https://cfpub.epa.gov/ecotox/cas/86873> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32918> .
+
+<https://cfpub.epa.gov/ecotox/cas/868779> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34288> .
+
+<https://cfpub.epa.gov/ecotox/cas/868859> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_82454> .
+
+<https://cfpub.epa.gov/ecotox/cas/87445> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_10357> .
+
+<https://cfpub.epa.gov/ecotox/cas/88891> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_46149> .
+
+<https://cfpub.epa.gov/ecotox/cas/88993> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_29069> .
+
+<https://cfpub.epa.gov/ecotox/cas/89827> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35596> .
+
+<https://cfpub.epa.gov/ecotox/cas/89838> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27607> .
+
+<https://cfpub.epa.gov/ecotox/cas/90028> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16008> .
+
+<https://cfpub.epa.gov/ecotox/cas/90471> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_37647> .
+
+<https://cfpub.epa.gov/ecotox/cas/91203> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16482> .
+
+<https://cfpub.epa.gov/ecotox/cas/91225> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17362> .
+
+<https://cfpub.epa.gov/ecotox/cas/91645> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28794> .
+
+<https://cfpub.epa.gov/ecotox/cas/920661> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_63104> .
+
+<https://cfpub.epa.gov/ecotox/cas/92524> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_17097> .
+
+<https://cfpub.epa.gov/ecotox/cas/92820> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_36674> .
+
+<https://cfpub.epa.gov/ecotox/cas/92842> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_37931> .
+
+<https://cfpub.epa.gov/ecotox/cas/92875> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_80495> .
+
+<https://cfpub.epa.gov/ecotox/cas/93356> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27510> .
+
+<https://cfpub.epa.gov/ecotox/cas/94133> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_32063> .
+
+<https://cfpub.epa.gov/ecotox/cas/94597> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_8994> .
+
+<https://cfpub.epa.gov/ecotox/cas/94622> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28821> .
+
+<https://cfpub.epa.gov/ecotox/cas/95136> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_41921> .
+
+<https://cfpub.epa.gov/ecotox/cas/95147> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_75331> .
+
+<https://cfpub.epa.gov/ecotox/cas/95169> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_45993> .
+
+<https://cfpub.epa.gov/ecotox/cas/95476> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28063> .
+
+<https://cfpub.epa.gov/ecotox/cas/95487> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28054> .
+
+<https://cfpub.epa.gov/ecotox/cas/95534> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_66892> .
+
+<https://cfpub.epa.gov/ecotox/cas/95932> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_38978> .
+
+<https://cfpub.epa.gov/ecotox/cas/97007> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34718> .
+
+<https://cfpub.epa.gov/ecotox/cas/97530> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_4917> .
+
+<https://cfpub.epa.gov/ecotox/cas/98011> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34768> .
+
+<https://cfpub.epa.gov/ecotox/cas/98828> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_34656> .
+
+<https://cfpub.epa.gov/ecotox/cas/98862> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27632> .
+
+<https://cfpub.epa.gov/ecotox/cas/98953> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_27798> .
+
+<https://cfpub.epa.gov/ecotox/cas/99763> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_31835> .
+
+<https://cfpub.epa.gov/ecotox/cas/99876> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28768> .
+

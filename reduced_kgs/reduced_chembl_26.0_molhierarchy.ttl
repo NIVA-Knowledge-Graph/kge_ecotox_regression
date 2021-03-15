@@ -1,0 +1,786 @@
+@prefix ns1: <http://rdf.ebi.ac.uk/terms/chembl#> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1077846> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1077952> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078033> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/69534> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078071> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078150> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078234> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078326> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078613> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078808> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078826> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078938> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1079159> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1079205> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1079247> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1079248> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1083992> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/4685147> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200548> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7773015> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200805> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/42399417> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1204369> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/60344> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1256912> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/61869087> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1445834> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/768945> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1628650> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/61869087> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL164350> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/130154> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1707604> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/52539> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1710321> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7773526> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1780190> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/5329146> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1916041> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/458377> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1986645> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/110861> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2028259> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/13768075> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2028292> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/53861> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2028376> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/2466093> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2031407> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/4685147> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2103742> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7785877> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2107006> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/1305788> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2110372> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/66357355> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2111286> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/66357355> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2115068> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2140344> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7637072> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2251960> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/13686287> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2311155> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/63058> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL232233> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/5329146> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2364721> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/50180> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2374284> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/110861> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL24080> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/75503> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2447917> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/81072> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3133300> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/61869087> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3182415> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/62533> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3183390> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/85416> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3184949> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/2466093> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3184986> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/557346> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3188620> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/2759286> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3251402> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/148243> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL328754> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/119653> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3306382> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/8004920> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3349336> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/103844> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3350449> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/15307865> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3526465> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/91225> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3560728> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/74895> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3707448> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/100970> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3753202> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/13686287> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3764828> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/85721331> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3833312> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/100970> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3904175> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/76039> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3938460> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/112050> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3988896> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/74908> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989410> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/53861> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989551> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/154212> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989705> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/137406> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989856> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7757826> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989857> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7487889> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4075711> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/154212> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4103461> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/260946> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4285219> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/50000> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4297336> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/64197> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL444436> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7447394> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL451260> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/148243> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL465617> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/768945> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL483787> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/52539> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL546257> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/83896> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL550495> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7060824> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL556980> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/83896> .
+
+<https://cfpub.epa.gov/ecotox/cas/10025704> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10476854> .
+
+<https://cfpub.epa.gov/ecotox/cas/10028247> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7558794> .
+
+<https://cfpub.epa.gov/ecotox/cas/10034932> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/302012> .
+
+<https://cfpub.epa.gov/ecotox/cas/10042769> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/24381597> .
+
+<https://cfpub.epa.gov/ecotox/cas/10048950> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7778394> .
+
+<https://cfpub.epa.gov/ecotox/cas/100630> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/59881> .
+
+<https://cfpub.epa.gov/ecotox/cas/100986854> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/177325132> .
+
+<https://cfpub.epa.gov/ecotox/cas/10102188> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7783008> .
+
+<https://cfpub.epa.gov/ecotox/cas/10326279> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10361372> .
+
+<https://cfpub.epa.gov/ecotox/cas/10361372> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/10326279> .
+
+<https://cfpub.epa.gov/ecotox/cas/103844> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3349336> .
+
+<https://cfpub.epa.gov/ecotox/cas/108952> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/139026> .
+
+<https://cfpub.epa.gov/ecotox/cas/1112670> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<https://cfpub.epa.gov/ecotox/cas/112050> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3938460> .
+
+<https://cfpub.epa.gov/ecotox/cas/115813406> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7681825> .
+
+<https://cfpub.epa.gov/ecotox/cas/118120517> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/82419361> .
+
+<https://cfpub.epa.gov/ecotox/cas/119623664> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/15307865> .
+
+<https://cfpub.epa.gov/ecotox/cas/119653> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL328754> .
+
+<https://cfpub.epa.gov/ecotox/cas/12111249> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/67436> .
+
+<https://cfpub.epa.gov/ecotox/cas/121573> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/515742> .
+
+<https://cfpub.epa.gov/ecotox/cas/123035> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7773526> .
+
+<https://cfpub.epa.gov/ecotox/cas/123308> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/51785> .
+
+<https://cfpub.epa.gov/ecotox/cas/124436> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/57136> .
+
+<https://cfpub.epa.gov/ecotox/cas/125833025> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/67436> .
+
+<https://cfpub.epa.gov/ecotox/cas/127093> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/50961063> .
+
+<https://cfpub.epa.gov/ecotox/cas/129066> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/81812> .
+
+<https://cfpub.epa.gov/ecotox/cas/130154> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL164350> .
+
+<https://cfpub.epa.gov/ecotox/cas/1305788> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2107006> .
+
+<https://cfpub.epa.gov/ecotox/cas/132486034> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7791119> .
+
+<https://cfpub.epa.gov/ecotox/cas/134305> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/148243> .
+
+<https://cfpub.epa.gov/ecotox/cas/134316> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/148243> .
+
+<https://cfpub.epa.gov/ecotox/cas/134523016> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/134523005> .
+
+<https://cfpub.epa.gov/ecotox/cas/134523038> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/134523005> .
+
+<https://cfpub.epa.gov/ecotox/cas/13463417> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/1121319> .
+
+<https://cfpub.epa.gov/ecotox/cas/13510491> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/7787566> .
+
+<https://cfpub.epa.gov/ecotox/cas/137166> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/97789> .
+
+<https://cfpub.epa.gov/ecotox/cas/137406> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989705> .
+
+<https://cfpub.epa.gov/ecotox/cas/13898470> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/7758192> .
+
+<https://cfpub.epa.gov/ecotox/cas/139026> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/108952> .
+
+<https://cfpub.epa.gov/ecotox/cas/139139> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/18662538> .
+
+<https://cfpub.epa.gov/ecotox/cas/140727> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7773526> .
+
+<https://cfpub.epa.gov/ecotox/cas/1421869> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/57249> .
+
+<https://cfpub.epa.gov/ecotox/cas/14324551> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/147842> .
+
+<https://cfpub.epa.gov/ecotox/cas/143339> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/74908> .
+
+<https://cfpub.epa.gov/ecotox/cas/14336711> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10043524> .
+
+<https://cfpub.epa.gov/ecotox/cas/14343692> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/26628228> .
+
+<https://cfpub.epa.gov/ecotox/cas/14351667> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/514103> .
+
+<https://cfpub.epa.gov/ecotox/cas/144490> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/62748> .
+
+<https://cfpub.epa.gov/ecotox/cas/14643879> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/79107> .
+
+<https://cfpub.epa.gov/ecotox/cas/148185> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/147842> .
+
+<https://cfpub.epa.gov/ecotox/cas/151508> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/74908> .
+
+<https://cfpub.epa.gov/ecotox/cas/15165794> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/86873> .
+
+<https://cfpub.epa.gov/ecotox/cas/152114> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/52539> .
+
+<https://cfpub.epa.gov/ecotox/cas/15307796> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/15307865> .
+
+<https://cfpub.epa.gov/ecotox/cas/15307810> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/15307865> .
+
+<https://cfpub.epa.gov/ecotox/cas/15769774> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/389082> .
+
+<https://cfpub.epa.gov/ecotox/cas/1643192> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<https://cfpub.epa.gov/ecotox/cas/16721805> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7783064> .
+
+<https://cfpub.epa.gov/ecotox/cas/16893859> ns1:hasParentMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL359599> .
+
+<https://cfpub.epa.gov/ecotox/cas/16919190> ns1:hasParentMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL359599> .
+
+<https://cfpub.epa.gov/ecotox/cas/17112219> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7647145> .
+
+<https://cfpub.epa.gov/ecotox/cas/17140577> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/57249> .
+
+<https://cfpub.epa.gov/ecotox/cas/177325132> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/100986854> .
+
+<https://cfpub.epa.gov/ecotox/cas/18662538> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/139139> .
+
+<https://cfpub.epa.gov/ecotox/cas/1910425> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/4685147> .
+
+<https://cfpub.epa.gov/ecotox/cas/2052495> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<https://cfpub.epa.gov/ecotox/cas/20624253> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/147842> .
+
+<https://cfpub.epa.gov/ecotox/cas/217797143> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/61869087> .
+
+<https://cfpub.epa.gov/ecotox/cas/22194098> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10043524> .
+
+<https://cfpub.epa.gov/ecotox/cas/22554990> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7681494> .
+
+<https://cfpub.epa.gov/ecotox/cas/2390683> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/20256568> .
+
+<https://cfpub.epa.gov/ecotox/cas/24359464> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10476854> .
+
+<https://cfpub.epa.gov/ecotox/cas/24359646> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7681825> .
+
+<https://cfpub.epa.gov/ecotox/cas/24359760> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7447407> .
+
+<https://cfpub.epa.gov/ecotox/cas/24381597> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10042769> .
+
+<https://cfpub.epa.gov/ecotox/cas/2439078> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/148243> .
+
+<https://cfpub.epa.gov/ecotox/cas/260946> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4103461> .
+
+<https://cfpub.epa.gov/ecotox/cas/2610868> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/81812> .
+
+<https://cfpub.epa.gov/ecotox/cas/26628228> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/14343692> .
+
+<https://cfpub.epa.gov/ecotox/cas/26787780> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/34642778> .
+
+<https://cfpub.epa.gov/ecotox/cas/2759286> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3188620> .
+
+<https://cfpub.epa.gov/ecotox/cas/2795393> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/1763231> .
+
+<https://cfpub.epa.gov/ecotox/cas/29457725> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/1763231> .
+
+<https://cfpub.epa.gov/ecotox/cas/302158> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/60344> .
+
+<https://cfpub.epa.gov/ecotox/cas/30781738> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/124403> .
+
+<https://cfpub.epa.gov/ecotox/cas/318989> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/525666> .
+
+<https://cfpub.epa.gov/ecotox/cas/33286225> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/42399417> .
+
+<https://cfpub.epa.gov/ecotox/cas/335671> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/3825261> .
+
+<https://cfpub.epa.gov/ecotox/cas/3374058> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/389082> .
+
+<https://cfpub.epa.gov/ecotox/cas/34642778> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/26787780> .
+
+<https://cfpub.epa.gov/ecotox/cas/34819788> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7664417> .
+
+<https://cfpub.epa.gov/ecotox/cas/35285699> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/94133> .
+
+<https://cfpub.epa.gov/ecotox/cas/357573> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/4845992> .
+
+<https://cfpub.epa.gov/ecotox/cas/37933781> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/50782> .
+
+<https://cfpub.epa.gov/ecotox/cas/3811732> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/1121319> .
+
+<https://cfpub.epa.gov/ecotox/cas/3825261> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/335671> .
+
+<https://cfpub.epa.gov/ecotox/cas/38270905> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10476854> .
+
+<https://cfpub.epa.gov/ecotox/cas/3926623> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/79118> .
+
+<https://cfpub.epa.gov/ecotox/cas/41927882> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7681825> .
+
+<https://cfpub.epa.gov/ecotox/cas/429414> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/10549765> .
+
+<https://cfpub.epa.gov/ecotox/cas/458377> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1916041> .
+
+<https://cfpub.epa.gov/ecotox/cas/4845992> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/357573> .
+
+<https://cfpub.epa.gov/ecotox/cas/50000> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4285219> .
+
+<https://cfpub.epa.gov/ecotox/cas/5026620> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/99763> .
+
+<https://cfpub.epa.gov/ecotox/cas/503742> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/539662> .
+
+<https://cfpub.epa.gov/ecotox/cas/506592> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/124403> .
+
+<https://cfpub.epa.gov/ecotox/cas/506616> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/74908> .
+
+<https://cfpub.epa.gov/ecotox/cas/509422> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/57249> .
+
+<https://cfpub.epa.gov/ecotox/cas/50961063> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/127093> .
+
+<https://cfpub.epa.gov/ecotox/cas/514103> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/14351667> .
+
+<https://cfpub.epa.gov/ecotox/cas/51481619> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/70059302> .
+
+<https://cfpub.epa.gov/ecotox/cas/515742> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/121573> .
+
+<https://cfpub.epa.gov/ecotox/cas/51785> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/123308> .
+
+<https://cfpub.epa.gov/ecotox/cas/525666> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/318989> .
+
+<https://cfpub.epa.gov/ecotox/cas/531851> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/92875> .
+
+<https://cfpub.epa.gov/ecotox/cas/5341617> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/302012> .
+
+<https://cfpub.epa.gov/ecotox/cas/535831> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/6138416> .
+
+<https://cfpub.epa.gov/ecotox/cas/539662> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/503742> .
+
+<https://cfpub.epa.gov/ecotox/cas/542154> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/62533> .
+
+<https://cfpub.epa.gov/ecotox/cas/54241019> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/5786210> .
+
+<https://cfpub.epa.gov/ecotox/cas/557346> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3184986> .
+
+<https://cfpub.epa.gov/ecotox/cas/5714738> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/100970> .
+
+<https://cfpub.epa.gov/ecotox/cas/5786210> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/54241019> .
+
+<https://cfpub.epa.gov/ecotox/cas/58069822> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/57136> .
+
+<https://cfpub.epa.gov/ecotox/cas/58082> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/69227> .
+
+<https://cfpub.epa.gov/ecotox/cas/593817> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/75503> .
+
+<https://cfpub.epa.gov/ecotox/cas/594058> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/57136> .
+
+<https://cfpub.epa.gov/ecotox/cas/5949291> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/77929> .
+
+<https://cfpub.epa.gov/ecotox/cas/59881> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/100630> .
+
+<https://cfpub.epa.gov/ecotox/cas/6004246> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7773526> .
+
+<https://cfpub.epa.gov/ecotox/cas/60413> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/57249> .
+
+<https://cfpub.epa.gov/ecotox/cas/6055192> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/50180> .
+
+<https://cfpub.epa.gov/ecotox/cas/6101071> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/57249> .
+
+<https://cfpub.epa.gov/ecotox/cas/6138416> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/535831> .
+
+<https://cfpub.epa.gov/ecotox/cas/6151300> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/83896> .
+
+<https://cfpub.epa.gov/ecotox/cas/61734> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7060824> .
+
+<https://cfpub.epa.gov/ecotox/cas/62748> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/144490> .
+
+<https://cfpub.epa.gov/ecotox/cas/62952061> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/50782> .
+
+<https://cfpub.epa.gov/ecotox/cas/63058> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2311155> .
+
+<https://cfpub.epa.gov/ecotox/cas/636215> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/95534> .
+
+<https://cfpub.epa.gov/ecotox/cas/64006446> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/61869087> .
+
+<https://cfpub.epa.gov/ecotox/cas/64197> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4297336> .
+
+<https://cfpub.epa.gov/ecotox/cas/650511> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/76039> .
+
+<https://cfpub.epa.gov/ecotox/cas/65271809> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/70476823> .
+
+<https://cfpub.epa.gov/ecotox/cas/66320> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/57249> .
+
+<https://cfpub.epa.gov/ecotox/cas/665667> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/768945> .
+
+<https://cfpub.epa.gov/ecotox/cas/69056> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/83896> .
+
+<https://cfpub.epa.gov/ecotox/cas/69227> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/58082> .
+
+<https://cfpub.epa.gov/ecotox/cas/69523> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/69534> .
+
+<https://cfpub.epa.gov/ecotox/cas/70059302> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/51481619> .
+
+<https://cfpub.epa.gov/ecotox/cas/70476823> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/65271809> .
+
+<https://cfpub.epa.gov/ecotox/cas/7173515> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/20256568> .
+
+<https://cfpub.epa.gov/ecotox/cas/7177482> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/69534> .
+
+<https://cfpub.epa.gov/ecotox/cas/7446813> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/79107> .
+
+<https://cfpub.epa.gov/ecotox/cas/7447394> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL444436> .
+
+<https://cfpub.epa.gov/ecotox/cas/7447407> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/24359760> .
+
+<https://cfpub.epa.gov/ecotox/cas/7487889> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989857> .
+
+<https://cfpub.epa.gov/ecotox/cas/74895> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3560728> .
+
+<https://cfpub.epa.gov/ecotox/cas/7632000> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7782776> .
+
+<https://cfpub.epa.gov/ecotox/cas/7635463> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7558794> .
+
+<https://cfpub.epa.gov/ecotox/cas/7637072> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2140344> .
+
+<https://cfpub.epa.gov/ecotox/cas/7647145> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/17112219> .
+
+<https://cfpub.epa.gov/ecotox/cas/7664417> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/34819788> .
+
+<https://cfpub.epa.gov/ecotox/cas/7681494> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/22554990> .
+
+<https://cfpub.epa.gov/ecotox/cas/7681529> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7790923> .
+
+<https://cfpub.epa.gov/ecotox/cas/7722885> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/2466093> .
+
+<https://cfpub.epa.gov/ecotox/cas/7727211> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/13445493> .
+
+<https://cfpub.epa.gov/ecotox/cas/7727540> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/13445493> .
+
+<https://cfpub.epa.gov/ecotox/cas/7757826> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989856> .
+
+<https://cfpub.epa.gov/ecotox/cas/7758012> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/15541454> .
+
+<https://cfpub.epa.gov/ecotox/cas/7758090> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7782776> .
+
+<https://cfpub.epa.gov/ecotox/cas/7758192> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/13898470> .
+
+<https://cfpub.epa.gov/ecotox/cas/7772987> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/13686287> .
+
+<https://cfpub.epa.gov/ecotox/cas/7773015> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200548> .
+
+<https://cfpub.epa.gov/ecotox/cas/7773060> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/5329146> .
+
+<https://cfpub.epa.gov/ecotox/cas/7775271> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/13445493> .
+
+<https://cfpub.epa.gov/ecotox/cas/7778394> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/10048950> .
+
+<https://cfpub.epa.gov/ecotox/cas/7778543> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7790923> .
+
+<https://cfpub.epa.gov/ecotox/cas/7782823> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7783008> .
+
+<https://cfpub.epa.gov/ecotox/cas/7783064> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/16721805> .
+
+<https://cfpub.epa.gov/ecotox/cas/7784465> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/13768075> .
+
+<https://cfpub.epa.gov/ecotox/cas/7785877> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2103742> .
+
+<https://cfpub.epa.gov/ecotox/cas/7786303> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/7791186> .
+
+<https://cfpub.epa.gov/ecotox/cas/7787566> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/13510491> .
+
+<https://cfpub.epa.gov/ecotox/cas/7789380> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/15541454> .
+
+<https://cfpub.epa.gov/ecotox/cas/7790263> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7681825> .
+
+<https://cfpub.epa.gov/ecotox/cas/7791119> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/132486034> .
+
+<https://cfpub.epa.gov/ecotox/cas/7791186> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/7786303> .
+
+<https://cfpub.epa.gov/ecotox/cas/77929> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/5949291> .
+
+<https://cfpub.epa.gov/ecotox/cas/78246498> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/61869087> .
+
+<https://cfpub.epa.gov/ecotox/cas/79118> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/3926623> .
+
+<https://cfpub.epa.gov/ecotox/cas/8004920> ns1:hasParentMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3306382> .
+
+<https://cfpub.epa.gov/ecotox/cas/81072> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2447917> .
+
+<https://cfpub.epa.gov/ecotox/cas/82419361> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/118120517> .
+
+<https://cfpub.epa.gov/ecotox/cas/85416> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3183390> .
+
+<https://cfpub.epa.gov/ecotox/cas/859187> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/154212> .
+
+<https://cfpub.epa.gov/ecotox/cas/86873> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/15165794> .
+
+<https://cfpub.epa.gov/ecotox/cas/877247> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/88993> .
+
+<https://cfpub.epa.gov/ecotox/cas/88993> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/877247> .
+
+<https://cfpub.epa.gov/ecotox/cas/91225> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3526465> .
+
+<https://cfpub.epa.gov/ecotox/cas/92875> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/531851> .
+
+<https://cfpub.epa.gov/ecotox/cas/93107085> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/85721331> .
+
+<https://cfpub.epa.gov/ecotox/cas/94133> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/35285699> .
+
+<https://cfpub.epa.gov/ecotox/cas/95534> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/636215> .
+
+<https://cfpub.epa.gov/ecotox/cas/97789> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/137166> .
+
+<https://cfpub.epa.gov/ecotox/cas/97867339> ns1:hasParentMolecule <https://cfpub.epa.gov/ecotox/cas/85721331> .
+
+<https://cfpub.epa.gov/ecotox/cas/99763> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/5026620> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL359599> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/16893859>,
+        <https://cfpub.epa.gov/ecotox/cas/16919190> .
+
+<https://cfpub.epa.gov/ecotox/cas/10043524> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/14336711>,
+        <https://cfpub.epa.gov/ecotox/cas/22194098> .
+
+<https://cfpub.epa.gov/ecotox/cas/110861> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1986645>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2374284> .
+
+<https://cfpub.epa.gov/ecotox/cas/1121319> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/13463417>,
+        <https://cfpub.epa.gov/ecotox/cas/3811732> .
+
+<https://cfpub.epa.gov/ecotox/cas/124403> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/30781738>,
+        <https://cfpub.epa.gov/ecotox/cas/506592> .
+
+<https://cfpub.epa.gov/ecotox/cas/134523005> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/134523016>,
+        <https://cfpub.epa.gov/ecotox/cas/134523038> .
+
+<https://cfpub.epa.gov/ecotox/cas/13768075> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2028259>,
+        <https://cfpub.epa.gov/ecotox/cas/7784465> .
+
+<https://cfpub.epa.gov/ecotox/cas/15541454> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/7758012>,
+        <https://cfpub.epa.gov/ecotox/cas/7789380> .
+
+<https://cfpub.epa.gov/ecotox/cas/1763231> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/2795393>,
+        <https://cfpub.epa.gov/ecotox/cas/29457725> .
+
+<https://cfpub.epa.gov/ecotox/cas/20256568> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/2390683>,
+        <https://cfpub.epa.gov/ecotox/cas/7173515> .
+
+<https://cfpub.epa.gov/ecotox/cas/302012> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/10034932>,
+        <https://cfpub.epa.gov/ecotox/cas/5341617> .
+
+<https://cfpub.epa.gov/ecotox/cas/389082> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/15769774>,
+        <https://cfpub.epa.gov/ecotox/cas/3374058> .
+
+<https://cfpub.epa.gov/ecotox/cas/42399417> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1200805>,
+        <https://cfpub.epa.gov/ecotox/cas/33286225> .
+
+<https://cfpub.epa.gov/ecotox/cas/50180> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2364721>,
+        <https://cfpub.epa.gov/ecotox/cas/6055192> .
+
+<https://cfpub.epa.gov/ecotox/cas/50782> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/37933781>,
+        <https://cfpub.epa.gov/ecotox/cas/62952061> .
+
+<https://cfpub.epa.gov/ecotox/cas/53861> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2028292>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989410> .
+
+<https://cfpub.epa.gov/ecotox/cas/60344> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1204369>,
+        <https://cfpub.epa.gov/ecotox/cas/302158> .
+
+<https://cfpub.epa.gov/ecotox/cas/62533> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3182415>,
+        <https://cfpub.epa.gov/ecotox/cas/542154> .
+
+<https://cfpub.epa.gov/ecotox/cas/66357355> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2110372>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2111286> .
+
+<https://cfpub.epa.gov/ecotox/cas/67436> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/12111249>,
+        <https://cfpub.epa.gov/ecotox/cas/125833025> .
+
+<https://cfpub.epa.gov/ecotox/cas/7060824> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL550495>,
+        <https://cfpub.epa.gov/ecotox/cas/61734> .
+
+<https://cfpub.epa.gov/ecotox/cas/75503> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL24080>,
+        <https://cfpub.epa.gov/ecotox/cas/593817> .
+
+<https://cfpub.epa.gov/ecotox/cas/7558794> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/10028247>,
+        <https://cfpub.epa.gov/ecotox/cas/7635463> .
+
+<https://cfpub.epa.gov/ecotox/cas/76039> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3904175>,
+        <https://cfpub.epa.gov/ecotox/cas/650511> .
+
+<https://cfpub.epa.gov/ecotox/cas/7782776> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/7632000>,
+        <https://cfpub.epa.gov/ecotox/cas/7758090> .
+
+<https://cfpub.epa.gov/ecotox/cas/7783008> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/10102188>,
+        <https://cfpub.epa.gov/ecotox/cas/7782823> .
+
+<https://cfpub.epa.gov/ecotox/cas/7790923> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/7681529>,
+        <https://cfpub.epa.gov/ecotox/cas/7778543> .
+
+<https://cfpub.epa.gov/ecotox/cas/79107> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/14643879>,
+        <https://cfpub.epa.gov/ecotox/cas/7446813> .
+
+<https://cfpub.epa.gov/ecotox/cas/81812> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/129066>,
+        <https://cfpub.epa.gov/ecotox/cas/2610868> .
+
+<https://cfpub.epa.gov/ecotox/cas/100970> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3707448>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3833312>,
+        <https://cfpub.epa.gov/ecotox/cas/5714738> .
+
+<https://cfpub.epa.gov/ecotox/cas/10476854> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/10025704>,
+        <https://cfpub.epa.gov/ecotox/cas/24359464>,
+        <https://cfpub.epa.gov/ecotox/cas/38270905> .
+
+<https://cfpub.epa.gov/ecotox/cas/13445493> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/7727211>,
+        <https://cfpub.epa.gov/ecotox/cas/7727540>,
+        <https://cfpub.epa.gov/ecotox/cas/7775271> .
+
+<https://cfpub.epa.gov/ecotox/cas/13686287> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2251960>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3753202>,
+        <https://cfpub.epa.gov/ecotox/cas/7772987> .
+
+<https://cfpub.epa.gov/ecotox/cas/147842> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/14324551>,
+        <https://cfpub.epa.gov/ecotox/cas/148185>,
+        <https://cfpub.epa.gov/ecotox/cas/20624253> .
+
+<https://cfpub.epa.gov/ecotox/cas/154212> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3989551>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL4075711>,
+        <https://cfpub.epa.gov/ecotox/cas/859187> .
+
+<https://cfpub.epa.gov/ecotox/cas/2466093> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2028376>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3184949>,
+        <https://cfpub.epa.gov/ecotox/cas/7722885> .
+
+<https://cfpub.epa.gov/ecotox/cas/4685147> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1083992>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2031407>,
+        <https://cfpub.epa.gov/ecotox/cas/1910425> .
+
+<https://cfpub.epa.gov/ecotox/cas/52539> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1707604>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL483787>,
+        <https://cfpub.epa.gov/ecotox/cas/152114> .
+
+<https://cfpub.epa.gov/ecotox/cas/5329146> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1780190>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL232233>,
+        <https://cfpub.epa.gov/ecotox/cas/7773060> .
+
+<https://cfpub.epa.gov/ecotox/cas/57136> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/124436>,
+        <https://cfpub.epa.gov/ecotox/cas/58069822>,
+        <https://cfpub.epa.gov/ecotox/cas/594058> .
+
+<https://cfpub.epa.gov/ecotox/cas/69534> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078033>,
+        <https://cfpub.epa.gov/ecotox/cas/69523>,
+        <https://cfpub.epa.gov/ecotox/cas/7177482> .
+
+<https://cfpub.epa.gov/ecotox/cas/768945> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1445834>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL465617>,
+        <https://cfpub.epa.gov/ecotox/cas/665667> .
+
+<https://cfpub.epa.gov/ecotox/cas/85721331> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3764828>,
+        <https://cfpub.epa.gov/ecotox/cas/93107085>,
+        <https://cfpub.epa.gov/ecotox/cas/97867339> .
+
+<https://cfpub.epa.gov/ecotox/cas/15307865> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3350449>,
+        <https://cfpub.epa.gov/ecotox/cas/119623664>,
+        <https://cfpub.epa.gov/ecotox/cas/15307796>,
+        <https://cfpub.epa.gov/ecotox/cas/15307810> .
+
+<https://cfpub.epa.gov/ecotox/cas/74908> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3988896>,
+        <https://cfpub.epa.gov/ecotox/cas/143339>,
+        <https://cfpub.epa.gov/ecotox/cas/151508>,
+        <https://cfpub.epa.gov/ecotox/cas/506616> .
+
+<https://cfpub.epa.gov/ecotox/cas/7681825> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/115813406>,
+        <https://cfpub.epa.gov/ecotox/cas/24359646>,
+        <https://cfpub.epa.gov/ecotox/cas/41927882>,
+        <https://cfpub.epa.gov/ecotox/cas/7790263> .
+
+<https://cfpub.epa.gov/ecotox/cas/7773526> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1710321>,
+        <https://cfpub.epa.gov/ecotox/cas/123035>,
+        <https://cfpub.epa.gov/ecotox/cas/140727>,
+        <https://cfpub.epa.gov/ecotox/cas/6004246> .
+
+<https://cfpub.epa.gov/ecotox/cas/83896> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL546257>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL556980>,
+        <https://cfpub.epa.gov/ecotox/cas/6151300>,
+        <https://cfpub.epa.gov/ecotox/cas/69056> .
+
+<https://cfpub.epa.gov/ecotox/cas/148243> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3251402>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL451260>,
+        <https://cfpub.epa.gov/ecotox/cas/134305>,
+        <https://cfpub.epa.gov/ecotox/cas/134316>,
+        <https://cfpub.epa.gov/ecotox/cas/2439078> .
+
+<https://cfpub.epa.gov/ecotox/cas/57249> ns1:hasChildMolecule <https://cfpub.epa.gov/ecotox/cas/1421869>,
+        <https://cfpub.epa.gov/ecotox/cas/17140577>,
+        <https://cfpub.epa.gov/ecotox/cas/509422>,
+        <https://cfpub.epa.gov/ecotox/cas/60413>,
+        <https://cfpub.epa.gov/ecotox/cas/6101071>,
+        <https://cfpub.epa.gov/ecotox/cas/66320> .
+
+<https://cfpub.epa.gov/ecotox/cas/61869087> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1256912>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1628650>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL3133300>,
+        <https://cfpub.epa.gov/ecotox/cas/217797143>,
+        <https://cfpub.epa.gov/ecotox/cas/64006446>,
+        <https://cfpub.epa.gov/ecotox/cas/78246498> .
+
+<https://cfpub.epa.gov/ecotox/cas/10549765> ns1:hasChildMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1077846>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1077952>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078071>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078150>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078234>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078326>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078613>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078808>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078826>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1078938>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1079159>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1079205>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1079247>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1079248>,
+        <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL2115068>,
+        <https://cfpub.epa.gov/ecotox/cas/1112670>,
+        <https://cfpub.epa.gov/ecotox/cas/1643192>,
+        <https://cfpub.epa.gov/ecotox/cas/2052495>,
+        <https://cfpub.epa.gov/ecotox/cas/429414> .
+
