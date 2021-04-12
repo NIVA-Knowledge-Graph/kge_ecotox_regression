@@ -150,6 +150,8 @@
 
 <https://cfpub.epa.gov/ecotox/cas/112492> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_44842> .
 
+<https://cfpub.epa.gov/ecotox/cas/112538> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28878> .
+
 <https://cfpub.epa.gov/ecotox/cas/112801> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_16196> .
 
 <https://cfpub.epa.gov/ecotox/cas/115866> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_35033> .
@@ -393,6 +395,8 @@
 <https://cfpub.epa.gov/ecotox/cas/503742> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28484> .
 
 <https://cfpub.epa.gov/ecotox/cas/50782> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_15365> .
+
+<https://cfpub.epa.gov/ecotox/cas/50817> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_29073> .
 
 <https://cfpub.epa.gov/ecotox/cas/514103> ns1:exactMatch <http://purl.obolibrary.org/obo/CHEBI_28987> .
 

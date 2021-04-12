@@ -104,6 +104,106 @@
     ns1:hasMesh <http://identifiers.org/mesh/D051437> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/144558> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108594> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000183> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D006689> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108595> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000292> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D001749> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108596> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000378> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D003324> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108597> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000403> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D016403> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108598> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000612> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D009203> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108599> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0001359> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D003922> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108600> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003103> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D014552> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108601> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003763> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D002561> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108602> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003777> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D006331> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108603> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003781> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D002340> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108604> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003894> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D000152> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108605> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0006834> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D012772> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108606> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0009444> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D000860> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108607> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0009492> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D006323> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108608> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0009516> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D002056> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108609> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0009579> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D006473> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108610> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_1000860> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D002537> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108611> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_1001375> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D017202> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108612> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_1001968> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D012509> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108613> a ns1:DrugIndication ;
+    ns1:hasEFO <http://purl.obolibrary.org/obo/HP_0012378> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D005221> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108638> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003030> ;
     ns1:hasMesh <http://identifiers.org/mesh/D000038> ;
@@ -3053,6 +3153,11 @@
     ns1:hasMesh <http://identifiers.org/mesh/D013717> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50248> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_43044> a ns1:DrugIndication ;
+    ns1:hasEFO <http://purl.obolibrary.org/obo/HP_0001891> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D018798> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_43053> a ns1:DrugIndication ;
     ns1:hasEFO <http://purl.obolibrary.org/obo/HP_0002829> ;
     ns1:hasMesh <http://identifiers.org/mesh/D018771> ;
@@ -3087,6 +3192,11 @@
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000378> ;
     ns1:hasMesh <http://identifiers.org/mesh/D003324> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/55630> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_43361> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000400> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D003920> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
 
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_43363> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000400> ;
@@ -3213,6 +3323,11 @@
     ns1:hasMesh <http://identifiers.org/mesh/D001007> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/61869087> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_44173> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0005952> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D008228> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_44176> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0006510> ;
     ns1:hasMesh <http://identifiers.org/mesh/D006562> ;
@@ -3273,6 +3388,11 @@
     ns1:hasMesh <http://identifiers.org/mesh/D007239> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/100986854> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_44620> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000546> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D014947> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_44623> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000546> ;
     ns1:hasMesh <http://identifiers.org/mesh/D014947> ;
@@ -3308,6 +3428,11 @@
     ns1:hasMesh <http://identifiers.org/mesh/D003924> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/7647145> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_44855> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0001360> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D003924> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_44896> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0001422> ;
     ns1:hasMesh <http://identifiers.org/mesh/D008103> ;
@@ -3337,6 +3462,11 @@
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003106> ;
     ns1:hasMesh <http://identifiers.org/mesh/D011014> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/100986854> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_45015> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003106> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D011014> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
 
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_45018> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003108> ;
@@ -3488,6 +3618,16 @@
     ns1:hasMesh <http://identifiers.org/mesh/D014552> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/85721331> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_45954> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003843> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D010146> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_46058> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0004272> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D000740> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_46081> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0004616> ;
     ns1:hasMesh <http://identifiers.org/mesh/D020370> ;
@@ -3538,6 +3678,11 @@
     ns1:hasMesh <http://identifiers.org/mesh/D001714> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/5786210> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_46411> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000365> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D015179> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_46419> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000378> ;
     ns1:hasMesh <http://identifiers.org/mesh/D003324> ;
@@ -3587,6 +3732,11 @@
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0001669> ;
     ns1:hasMesh <http://identifiers.org/mesh/D007251> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/7647145> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_46742> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003060> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D002289> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
 
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_46764> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003103> ;
@@ -3648,6 +3798,11 @@
     ns1:hasMesh <http://identifiers.org/mesh/D003876> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/57136> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_47111> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000275> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D001281> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_47122> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000289> ;
     ns1:hasMesh <http://identifiers.org/mesh/D001714> ;
@@ -3688,10 +3843,20 @@
     ns1:hasMesh <http://identifiers.org/mesh/D007246> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/58220> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_47316> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000673> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D011471> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_47397> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0001059> ;
     ns1:hasMesh <http://identifiers.org/mesh/D002386> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50248> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_47404> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0001069> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D009748> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
 
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_47432> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0001359> ;
@@ -3778,6 +3943,11 @@
     ns1:hasMesh <http://identifiers.org/mesh/D003327> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50782> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_48186> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0002618> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D010190> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_48320> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0004194> ;
     ns1:hasMesh <http://identifiers.org/mesh/D005922> ;
@@ -3798,6 +3968,11 @@
     ns1:hasMesh <http://identifiers.org/mesh/D006528> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/57136> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_48517> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000270> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D001249> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_48592> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000400> ;
     ns1:hasMesh <http://identifiers.org/mesh/D003920> ;
@@ -3812,6 +3987,11 @@
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000701> ;
     ns1:hasMesh <http://identifiers.org/mesh/D012871> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/7647145> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_48728> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000731> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D007889> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
 
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_48745> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0001073> ;
@@ -4117,6 +4297,11 @@
     ns1:hasMesh <http://identifiers.org/mesh/D053201> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/67685> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_51890> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_1000783> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D003929> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_51896> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_1000954> ;
     ns1:hasMesh <http://identifiers.org/mesh/D000026> ;
@@ -4226,6 +4411,11 @@
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003785> ;
     ns1:hasMesh <http://identifiers.org/mesh/D006967> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50022> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_52265> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003884> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D051436> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
 
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_52278> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0004992> ;
@@ -4824,6 +5014,171 @@
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000373> ;
     ns1:hasMesh <http://identifiers.org/mesh/D006333> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/79094> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58639> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000178> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D013274> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58640> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000196> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D011471> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58641> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000198> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D009190> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58642> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000222> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D015470> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58644> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000305> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D001943> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58645> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000311> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D009369> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58646> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000326> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D005910> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58647> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000349> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D002292> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58648> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000474> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D004827> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58649> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000479> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D013920> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58650> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000519> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D005909> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58651> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000668> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D011225> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58653> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000692> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D012559> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58654> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0001378> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D009101> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58655> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0002429> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D011087> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58656> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0002430> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D055728> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58657> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0002499> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D001254> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58658> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0002501> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D009837> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58659> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0002970> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D009135> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58660> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003144> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D006333> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58662> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003761> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D003866> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58663> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003768> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D014029> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58664> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003860> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D010190> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58665> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003911> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D001282> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58666> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0004142> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D015179> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58667> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0005279> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D013705> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58669> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_1000822> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D001206> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58670> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_1001465> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D018316> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58671> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_1001904> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D013280> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58672> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_1001951> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D015179> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58673> a ns1:DrugIndication ;
+    ns1:hasEFO <http://purl.obolibrary.org/obo/HP_0100806> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D018805> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58675> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.orpha.net/consor/cgi-bin/OC_Exp.php?Expert=166> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D002607> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58676> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.orpha.net/consor/cgi-bin/OC_Exp.php?Expert=231214> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D017086> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
 
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58786> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0000191> ;
@@ -8573,6 +8928,11 @@
     ns1:hasMesh <http://identifiers.org/mesh/D009203> ;
     ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/55630> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_73185> a ns1:DrugIndication ;
+    ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0003884> ;
+    ns1:hasMesh <http://identifiers.org/mesh/D007676> ;
+    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/50817> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_73191> a ns1:DrugIndication ;
     ns1:hasEFO <http://www.ebi.ac.uk/efo/EFO_0007257> ;
     ns1:hasMesh <http://identifiers.org/mesh/D011657> ;
@@ -9627,6 +9987,79 @@
         <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_69675>,
         <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_69676>,
         <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_69677> .
+
+<https://cfpub.epa.gov/ecotox/cas/50817> ns1:hasDrugIndication <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108594>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108595>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108596>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108597>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108598>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108599>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108600>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108601>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108602>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108603>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108604>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108605>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108606>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108607>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108608>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108609>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108610>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108611>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108612>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_108613>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_43044>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_43361>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_44173>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_44620>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_44855>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_45015>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_45954>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_46058>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_46411>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_46742>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_47111>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_47316>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_47404>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_48186>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_48517>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_48728>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_51890>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_52265>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58639>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58640>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58641>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58642>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58644>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58645>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58646>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58647>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58648>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58649>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58650>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58651>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58653>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58654>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58655>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58656>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58657>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58658>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58659>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58660>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58662>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58663>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58664>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58665>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58666>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58667>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58669>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58670>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58671>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58672>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58673>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58675>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_58676>,
+        <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_73185> .
 
 <https://cfpub.epa.gov/ecotox/cas/79902639> ns1:hasDrugIndication <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_110450>,
         <http://rdf.ebi.ac.uk/resource/chembl/drug_indication/CHEMBL_IND_110451>,

@@ -1382,6 +1382,25 @@
         <https://www.molport.com/shop/molecule-link/MolPort-003-939-659>,
         <https://www.surechembl.org/chemical/SCHEMBL16126> .
 
+<https://cfpub.epa.gov/ecotox/cas/112538> ns1:moleculeXref <http://actor.epa.gov/actor/chemical.xhtml?casrn=112-53-8>,
+        <http://actor.epa.gov/actor/chemical.xhtml?casrn=27342-88-7>,
+        <http://actor.epa.gov/actor/chemical.xhtml?casrn=63393-82-8>,
+        <http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=178A96NLP2>,
+        <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J1.505I>,
+        <http://pubchem.ncbi.nlm.nih.gov/compound/8193>,
+        <http://pubchem.ncbi.nlm.nih.gov/substance/15219776>,
+        <http://www-935.ibm.com/services/us/gbs/bao/siip/nih/?sid=4B5F6396C1E9145F1AB7C196ED9D9184>,
+        <http://www.drugbank.ca/drugs/DB06894>,
+        <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A28878>,
+        <http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/1DO>,
+        <http://www.genome.jp/dbget-bin/www_bget?C02277>,
+        <http://www.hmdb.ca/metabolites/HMDB0011626>,
+        <http://zinc15.docking.org/substances/ZINC000001529403>,
+        <https://mcule.com/MCULE-9381688904>,
+        <https://www.emolecules.com/cgi-bin/more?vid=480010>,
+        <https://www.molport.com/shop/molecule-link/MolPort-001-779-974>,
+        <https://www.surechembl.org/chemical/SCHEMBL6844> .
+
 <https://cfpub.epa.gov/ecotox/cas/112801> ns1:moleculeXref <http://actor.epa.gov/actor/chemical.xhtml?casrn=68412-07-7>,
         <http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=2UMI9U37CP>,
         <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.460K>,
@@ -3665,6 +3684,29 @@
         <https://www.molport.com/shop/molecule-link/MolPort-000-871-622>,
         <https://www.pharmgkb.org/drug/PA448497>,
         <https://www.surechembl.org/chemical/SCHEMBL1353> .
+
+<https://cfpub.epa.gov/ecotox/cas/50817> ns1:moleculeXref <http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=PQ6CK8PD0R>,
+        <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.301I>,
+        <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J301.821K>,
+        <http://pubchem.ncbi.nlm.nih.gov/compound/54670067>,
+        <http://pubchem.ncbi.nlm.nih.gov/substance/15219590>,
+        <http://pubchem.ncbi.nlm.nih.gov/substance/15321981>,
+        <http://pubchem.ncbi.nlm.nih.gov/substance/22395201>,
+        <http://www-935.ibm.com/services/us/gbs/bao/siip/nih/?sid=547778446AC0204262E8DE88D0FF13FA>,
+        <http://www.drugbank.ca/drugs/DB00126>,
+        <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A29073>,
+        <http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/ASC>,
+        <http://www.genome.jp/dbget-bin/www_bget?C00072>,
+        <http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4532>,
+        <http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4781>,
+        <http://www.hmdb.ca/metabolites/HMDB0000044>,
+        <http://www.selleckchem.com/products/vitamin-c-ascorbic-acid.html>,
+        <http://zinc15.docking.org/substances/ZINC000100006770>,
+        <https://www.emolecules.com/cgi-bin/more?vid=26405050>,
+        <https://www.emolecules.com/cgi-bin/more?vid=29534153>,
+        <https://www.emolecules.com/cgi-bin/more?vid=492402>,
+        <https://www.molport.com/shop/molecule-link/MolPort-001-792-501>,
+        <https://www.surechembl.org/chemical/SCHEMBL785> .
 
 <https://cfpub.epa.gov/ecotox/cas/514103> ns1:moleculeXref <http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=V3DHX33184>,
         <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J10.135D>,
@@ -7760,6 +7802,8 @@
 
 <http://actor.epa.gov/actor/chemical.xhtml?casrn=112-49-2> a ns1:ActorRef .
 
+<http://actor.epa.gov/actor/chemical.xhtml?casrn=112-53-8> a ns1:ActorRef .
+
 <http://actor.epa.gov/actor/chemical.xhtml?casrn=112068-71-0> a ns1:ActorRef .
 
 <http://actor.epa.gov/actor/chemical.xhtml?casrn=112288-03-6> a ns1:ActorRef .
@@ -8270,6 +8314,8 @@
 
 <http://actor.epa.gov/actor/chemical.xhtml?casrn=27308-78-7> a ns1:ActorRef .
 
+<http://actor.epa.gov/actor/chemical.xhtml?casrn=27342-88-7> a ns1:ActorRef .
+
 <http://actor.epa.gov/actor/chemical.xhtml?casrn=275-51-4> a ns1:ActorRef .
 
 <http://actor.epa.gov/actor/chemical.xhtml?casrn=27556-51-0> a ns1:ActorRef .
@@ -8611,6 +8657,8 @@
 <http://actor.epa.gov/actor/chemical.xhtml?casrn=630-31-9> a ns1:ActorRef .
 
 <http://actor.epa.gov/actor/chemical.xhtml?casrn=63335-87-5> a ns1:ActorRef .
+
+<http://actor.epa.gov/actor/chemical.xhtml?casrn=63393-82-8> a ns1:ActorRef .
 
 <http://actor.epa.gov/actor/chemical.xhtml?casrn=63496-48-0> a ns1:ActorRef .
 
@@ -9219,6 +9267,8 @@
 <http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=144O8QL0L1> a ns1:FdaSrsRef .
 
 <http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=14R9K67URN> a ns1:FdaSrsRef .
+
+<http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=178A96NLP2> a ns1:FdaSrsRef .
 
 <http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=17K64GZH20> a ns1:FdaSrsRef .
 
@@ -9862,6 +9912,8 @@
 
 <http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=PJY633525U> a ns1:FdaSrsRef .
 
+<http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=PQ6CK8PD0R> a ns1:FdaSrsRef .
+
 <http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=Q40Q9N063P> a ns1:FdaSrsRef .
 
 <http://fdasis.nlm.nih.gov/srs/ProxyServlet?mergeData=true&objectHandle=DBMaint&APPLICATION_NAME=fdasrs&actionHandle=default&nextPage=jsp/srs/ResultScreen.jsp&TXTSUPERLISTID=QOJ9TH7LDL> a ns1:FdaSrsRef .
@@ -10230,6 +10282,8 @@
 
 <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J1.504K> a ns1:NikkajiRef .
 
+<http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J1.505I> a ns1:NikkajiRef .
+
 <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J1.516D> a ns1:NikkajiRef .
 
 <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J1.517B> a ns1:NikkajiRef .
@@ -10359,6 +10413,8 @@
 <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.297G> a ns1:NikkajiRef .
 
 <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.300K> a ns1:NikkajiRef .
+
+<http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.301I> a ns1:NikkajiRef .
 
 <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J2.306J> a ns1:NikkajiRef .
 
@@ -10743,6 +10799,8 @@
 <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J3.983G> a ns1:NikkajiRef .
 
 <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J3.996I> a ns1:NikkajiRef .
+
+<http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J301.821K> a ns1:NikkajiRef .
 
 <http://jglobal.jst.go.jp/en/redirect?Nikkaji_No=J332.327G> a ns1:NikkajiRef .
 
@@ -12234,6 +12292,8 @@
 
 <http://pubchem.ncbi.nlm.nih.gov/compound/5455> a ns1:PubchemRef .
 
+<http://pubchem.ncbi.nlm.nih.gov/compound/54670067> a ns1:PubchemRef .
+
 <http://pubchem.ncbi.nlm.nih.gov/compound/54676038> a ns1:PubchemRef .
 
 <http://pubchem.ncbi.nlm.nih.gov/compound/54678486> a ns1:PubchemRef .
@@ -12591,6 +12651,8 @@
 <http://pubchem.ncbi.nlm.nih.gov/compound/8184> a ns1:PubchemRef .
 
 <http://pubchem.ncbi.nlm.nih.gov/compound/8189> a ns1:PubchemRef .
+
+<http://pubchem.ncbi.nlm.nih.gov/compound/8193> a ns1:PubchemRef .
 
 <http://pubchem.ncbi.nlm.nih.gov/compound/82227> a ns1:PubchemRef .
 
@@ -13428,9 +13490,13 @@
 
 <http://pubchem.ncbi.nlm.nih.gov/substance/15219442> a ns1:PubchemThomPharmRef .
 
+<http://pubchem.ncbi.nlm.nih.gov/substance/15219590> a ns1:PubchemThomPharmRef .
+
 <http://pubchem.ncbi.nlm.nih.gov/substance/15219636> a ns1:PubchemThomPharmRef .
 
 <http://pubchem.ncbi.nlm.nih.gov/substance/15219767> a ns1:PubchemThomPharmRef .
+
+<http://pubchem.ncbi.nlm.nih.gov/substance/15219776> a ns1:PubchemThomPharmRef .
 
 <http://pubchem.ncbi.nlm.nih.gov/substance/15220052> a ns1:PubchemThomPharmRef .
 
@@ -13568,6 +13634,8 @@
 
 <http://pubchem.ncbi.nlm.nih.gov/substance/15321906> a ns1:PubchemThomPharmRef .
 
+<http://pubchem.ncbi.nlm.nih.gov/substance/15321981> a ns1:PubchemThomPharmRef .
+
 <http://pubchem.ncbi.nlm.nih.gov/substance/15322076> a ns1:PubchemThomPharmRef .
 
 <http://pubchem.ncbi.nlm.nih.gov/substance/15322255> a ns1:PubchemThomPharmRef .
@@ -13685,6 +13753,8 @@
 <http://pubchem.ncbi.nlm.nih.gov/substance/16935419> a ns1:PubchemThomPharmRef .
 
 <http://pubchem.ncbi.nlm.nih.gov/substance/22395178> a ns1:PubchemDotfRef .
+
+<http://pubchem.ncbi.nlm.nih.gov/substance/22395201> a ns1:PubchemDotfRef .
 
 <http://pubchem.ncbi.nlm.nih.gov/substance/22395205> a ns1:PubchemDotfRef .
 
@@ -13908,6 +13978,8 @@
 
 <http://www-935.ibm.com/services/us/gbs/bao/siip/nih/?sid=4A09A66A2C608F6E4EDA19468D17C232> a ns1:IbmPatentStructureRef .
 
+<http://www-935.ibm.com/services/us/gbs/bao/siip/nih/?sid=4B5F6396C1E9145F1AB7C196ED9D9184> a ns1:IbmPatentStructureRef .
+
 <http://www-935.ibm.com/services/us/gbs/bao/siip/nih/?sid=4B64A5FFD71FA7E28FB296AFFB74BEA6> a ns1:IbmPatentStructureRef .
 
 <http://www-935.ibm.com/services/us/gbs/bao/siip/nih/?sid=4DAE36C3E09884B3BED11681C4D1411C> a ns1:IbmPatentStructureRef .
@@ -13933,6 +14005,8 @@
 <http://www-935.ibm.com/services/us/gbs/bao/siip/nih/?sid=53EA6E64E3F6818F4E88E33F47B3FE1E> a ns1:IbmPatentStructureRef .
 
 <http://www-935.ibm.com/services/us/gbs/bao/siip/nih/?sid=543DBC4FF18E4D78582BDE1EA1EE4028> a ns1:IbmPatentStructureRef .
+
+<http://www-935.ibm.com/services/us/gbs/bao/siip/nih/?sid=547778446AC0204262E8DE88D0FF13FA> a ns1:IbmPatentStructureRef .
 
 <http://www-935.ibm.com/services/us/gbs/bao/siip/nih/?sid=558B1A1C21EA911778E7A28900662ABC> a ns1:IbmPatentStructureRef .
 
@@ -14426,6 +14500,8 @@
 
 <http://www-935.ibm.com/services/us/gbs/bao/siip/nih/?sid=FECF6B2DE50BE588AE4E454265CD27C4> a ns1:IbmPatentStructureRef .
 
+<http://www.drugbank.ca/drugs/DB00126> a ns1:DrugbankRef .
+
 <http://www.drugbank.ca/drugs/DB00201> a ns1:DrugbankRef .
 
 <http://www.drugbank.ca/drugs/DB00266> a ns1:DrugbankRef .
@@ -14659,6 +14735,8 @@
 <http://www.drugbank.ca/drugs/DB06774> a ns1:DrugbankRef .
 
 <http://www.drugbank.ca/drugs/DB06799> a ns1:DrugbankRef .
+
+<http://www.drugbank.ca/drugs/DB06894> a ns1:DrugbankRef .
 
 <http://www.drugbank.ca/drugs/DB06973> a ns1:DrugbankRef .
 
@@ -15118,6 +15196,8 @@
 
 <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A28837> a ns1:ChebiRef .
 
+<http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A28878> a ns1:ChebiRef .
+
 <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A28884> a ns1:ChebiRef .
 
 <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A28885> a ns1:ChebiRef .
@@ -15137,6 +15217,8 @@
 <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A29021> a ns1:ChebiRef .
 
 <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A29069> a ns1:ChebiRef .
+
+<http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A29073> a ns1:ChebiRef .
 
 <http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI%3A29200> a ns1:ChebiRef .
 
@@ -15826,6 +15908,8 @@
 
 <http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/1BO> a ns1:PdbeRef .
 
+<http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/1DO> a ns1:PdbeRef .
+
 <http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/1HC> a ns1:PdbeRef .
 
 <http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/211> a ns1:PdbeRef .
@@ -15905,6 +15989,8 @@
 <http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/AN3> a ns1:PdbeRef .
 
 <http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/ANL> a ns1:PdbeRef .
+
+<http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/ASC> a ns1:PdbeRef .
 
 <http://www.ebi.ac.uk/pdbe-srv/pdbechem/chemicalCompound/show/ASD> a ns1:PdbeRef .
 
@@ -16194,6 +16280,8 @@
 
 <http://www.genome.jp/dbget-bin/www_bget?C00067> a ns1:KeggLigandRef .
 
+<http://www.genome.jp/dbget-bin/www_bget?C00072> a ns1:KeggLigandRef .
+
 <http://www.genome.jp/dbget-bin/www_bget?C00084> a ns1:KeggLigandRef .
 
 <http://www.genome.jp/dbget-bin/www_bget?C00086> a ns1:KeggLigandRef .
@@ -16363,6 +16451,8 @@
 <http://www.genome.jp/dbget-bin/www_bget?C02183> a ns1:KeggLigandRef .
 
 <http://www.genome.jp/dbget-bin/www_bget?C02271> a ns1:KeggLigandRef .
+
+<http://www.genome.jp/dbget-bin/www_bget?C02277> a ns1:KeggLigandRef .
 
 <http://www.genome.jp/dbget-bin/www_bget?C02304> a ns1:KeggLigandRef .
 
@@ -16908,6 +16998,8 @@
 
 <http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4306> a ns1:IupharRef .
 
+<http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4532> a ns1:IupharRef .
+
 <http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4539> a ns1:IupharRef .
 
 <http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4552> a ns1:IupharRef .
@@ -16917,6 +17009,8 @@
 <http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4585> a ns1:IupharRef .
 
 <http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4661> a ns1:IupharRef .
+
+<http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4781> a ns1:IupharRef .
 
 <http://www.guidetopharmacology.org/GRAC/LigandDisplayForward?ligandId=4790> a ns1:IupharRef .
 
@@ -16981,6 +17075,8 @@
 <http://www.hmdb.ca/metabolites/HMDB0000039> a ns1:HmdbRef .
 
 <http://www.hmdb.ca/metabolites/HMDB0000042> a ns1:HmdbRef .
+
+<http://www.hmdb.ca/metabolites/HMDB0000044> a ns1:HmdbRef .
 
 <http://www.hmdb.ca/metabolites/HMDB0000051> a ns1:HmdbRef .
 
@@ -17171,6 +17267,8 @@
 <http://www.hmdb.ca/metabolites/HMDB0011119> a ns1:HmdbRef .
 
 <http://www.hmdb.ca/metabolites/HMDB0011624> a ns1:HmdbRef .
+
+<http://www.hmdb.ca/metabolites/HMDB0011626> a ns1:HmdbRef .
 
 <http://www.hmdb.ca/metabolites/HMDB0012190> a ns1:HmdbRef .
 
@@ -17536,6 +17634,8 @@
 
 <http://www.selleckchem.com/products/vanillin.html> a ns1:SelleckRef .
 
+<http://www.selleckchem.com/products/vitamin-c-ascorbic-acid.html> a ns1:SelleckRef .
+
 <http://zinc15.docking.org/substances/ZINC000000000053> a ns1:ZincRef .
 
 <http://zinc15.docking.org/substances/ZINC000000001011> a ns1:ZincRef .
@@ -17771,6 +17871,8 @@
 <http://zinc15.docking.org/substances/ZINC000001529234> a ns1:ZincRef .
 
 <http://zinc15.docking.org/substances/ZINC000001529247> a ns1:ZincRef .
+
+<http://zinc15.docking.org/substances/ZINC000001529403> a ns1:ZincRef .
 
 <http://zinc15.docking.org/substances/ZINC000001529498> a ns1:ZincRef .
 
@@ -18135,6 +18237,8 @@
 <http://zinc15.docking.org/substances/ZINC000086040406> a ns1:ZincRef .
 
 <http://zinc15.docking.org/substances/ZINC000096014346> a ns1:ZincRef .
+
+<http://zinc15.docking.org/substances/ZINC000100006770> a ns1:ZincRef .
 
 <http://zinc15.docking.org/substances/ZINC000100009616> a ns1:ZincRef .
 
@@ -18734,6 +18838,8 @@
 
 <https://mcule.com/MCULE-9352227082> a ns1:MculeRef .
 
+<https://mcule.com/MCULE-9381688904> a ns1:MculeRef .
+
 <https://mcule.com/MCULE-9383663409> a ns1:MculeRef .
 
 <https://mcule.com/MCULE-9419042273> a ns1:MculeRef .
@@ -18854,6 +18960,8 @@
 
 <https://www.emolecules.com/cgi-bin/more?vid=1989580> a ns1:EmoleculesRef .
 
+<https://www.emolecules.com/cgi-bin/more?vid=26405050> a ns1:EmoleculesRef .
+
 <https://www.emolecules.com/cgi-bin/more?vid=26423691> a ns1:EmoleculesRef .
 
 <https://www.emolecules.com/cgi-bin/more?vid=26714830> a ns1:EmoleculesRef .
@@ -18891,6 +18999,8 @@
 <https://www.emolecules.com/cgi-bin/more?vid=29522736> a ns1:EmoleculesRef .
 
 <https://www.emolecules.com/cgi-bin/more?vid=29533708> a ns1:EmoleculesRef .
+
+<https://www.emolecules.com/cgi-bin/more?vid=29534153> a ns1:EmoleculesRef .
 
 <https://www.emolecules.com/cgi-bin/more?vid=29541143> a ns1:EmoleculesRef .
 
@@ -19278,6 +19388,8 @@
 
 <https://www.emolecules.com/cgi-bin/more?vid=479998> a ns1:EmoleculesRef .
 
+<https://www.emolecules.com/cgi-bin/more?vid=480010> a ns1:EmoleculesRef .
+
 <https://www.emolecules.com/cgi-bin/more?vid=480157> a ns1:EmoleculesRef .
 
 <https://www.emolecules.com/cgi-bin/more?vid=480189> a ns1:EmoleculesRef .
@@ -19483,6 +19595,8 @@
 <https://www.emolecules.com/cgi-bin/more?vid=491580> a ns1:EmoleculesRef .
 
 <https://www.emolecules.com/cgi-bin/more?vid=491839> a ns1:EmoleculesRef .
+
+<https://www.emolecules.com/cgi-bin/more?vid=492402> a ns1:EmoleculesRef .
 
 <https://www.emolecules.com/cgi-bin/more?vid=493292> a ns1:EmoleculesRef .
 
@@ -20218,6 +20332,8 @@
 
 <https://www.molport.com/shop/molecule-link/MolPort-001-779-961> a ns1:MolportRef .
 
+<https://www.molport.com/shop/molecule-link/MolPort-001-779-974> a ns1:MolportRef .
+
 <https://www.molport.com/shop/molecule-link/MolPort-001-780-041> a ns1:MolportRef .
 
 <https://www.molport.com/shop/molecule-link/MolPort-001-780-113> a ns1:MolportRef .
@@ -20345,6 +20461,8 @@
 <https://www.molport.com/shop/molecule-link/MolPort-001-792-070> a ns1:MolportRef .
 
 <https://www.molport.com/shop/molecule-link/MolPort-001-792-135> a ns1:MolportRef .
+
+<https://www.molport.com/shop/molecule-link/MolPort-001-792-501> a ns1:MolportRef .
 
 <https://www.molport.com/shop/molecule-link/MolPort-001-792-503> a ns1:MolportRef .
 
@@ -21500,6 +21618,8 @@
 
 <https://www.surechembl.org/chemical/SCHEMBL683> a ns1:SureChemblRef .
 
+<https://www.surechembl.org/chemical/SCHEMBL6844> a ns1:SureChemblRef .
+
 <https://www.surechembl.org/chemical/SCHEMBL698> a ns1:SureChemblRef .
 
 <https://www.surechembl.org/chemical/SCHEMBL699> a ns1:SureChemblRef .
@@ -21543,6 +21663,8 @@
 <https://www.surechembl.org/chemical/SCHEMBL78033> a ns1:SureChemblRef .
 
 <https://www.surechembl.org/chemical/SCHEMBL78188> a ns1:SureChemblRef .
+
+<https://www.surechembl.org/chemical/SCHEMBL785> a ns1:SureChemblRef .
 
 <https://www.surechembl.org/chemical/SCHEMBL78733> a ns1:SureChemblRef .
 

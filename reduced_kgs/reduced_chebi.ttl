@@ -225,7 +225,7 @@
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_50903> ],
         [ a ns2:Restriction ;
             ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_48775> ],
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/22537480> ],
         [ a ns2:Restriction ;
             ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_50902> ],
@@ -485,6 +485,14 @@
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_25944> ],
         <http://purl.obolibrary.org/obo/CHEBI_38124> .
 
+<https://cfpub.epa.gov/ecotox/cas/107277> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_24127> ],
+        <http://purl.obolibrary.org/obo/CHEBI_23117>,
+        <http://purl.obolibrary.org/obo/CHEBI_25706> .
+
 <https://cfpub.epa.gov/ecotox/cas/108247> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -691,6 +699,30 @@
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_46787> ],
         <http://purl.obolibrary.org/obo/CHEBI_46774> .
 
+<https://cfpub.epa.gov/ecotox/cas/112538> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#has_parent_hydride> ;
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/112403> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_76924> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_24850> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_64857> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_24852> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_26013> ],
+        <http://purl.obolibrary.org/obo/CHEBI_15734>,
+        <http://purl.obolibrary.org/obo/CHEBI_23866>,
+        <http://purl.obolibrary.org/obo/CHEBI_24026> .
+
 <https://cfpub.epa.gov/ecotox/cas/115093> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -831,6 +863,12 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_23806>,
         <http://purl.obolibrary.org/obo/CHEBI_32876> .
+
+<https://cfpub.epa.gov/ecotox/cas/121755> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_23990>,
+        <http://purl.obolibrary.org/obo/CHEBI_37512>,
+        <http://purl.obolibrary.org/obo/CHEBI_51307> .
 
 <https://cfpub.epa.gov/ecotox/cas/123035> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -1073,16 +1111,6 @@
             ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
             ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/17493866> ],
         <http://purl.obolibrary.org/obo/CHEBI_134069> .
-
-<https://cfpub.epa.gov/ecotox/cas/1327533> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_24852> ],
-        [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_35610> ],
-        <http://purl.obolibrary.org/obo/CHEBI_50527> .
 
 <https://cfpub.epa.gov/ecotox/cas/1333820> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -1451,7 +1479,7 @@
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_64047> ],
         [ a ns2:Restriction ;
             ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_76357> ],
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/88324> ],
         [ a ns2:Restriction ;
             ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_22586> ],
@@ -2959,6 +2987,20 @@
         <http://purl.obolibrary.org/obo/CHEBI_86324>,
         <http://purl.obolibrary.org/obo/CHEBI_87211> .
 
+<https://cfpub.epa.gov/ecotox/cas/706149> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_35623> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_64047> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_35617> ],
+        <http://purl.obolibrary.org/obo/CHEBI_37581>,
+        <http://purl.obolibrary.org/obo/CHEBI_47016> .
+
 <https://cfpub.epa.gov/ecotox/cas/7173515> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#2_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_50860> .
@@ -3140,6 +3182,13 @@
             ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_77746> ],
         <http://purl.obolibrary.org/obo/CHEBI_17478> .
+
+<https://cfpub.epa.gov/ecotox/cas/75081> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_33288> ],
+        <http://purl.obolibrary.org/obo/CHEBI_47908> .
 
 <https://cfpub.epa.gov/ecotox/cas/75092> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -3475,9 +3524,18 @@
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_63047> ],
         <http://purl.obolibrary.org/obo/CHEBI_38702> .
 
-<https://cfpub.epa.gov/ecotox/cas/7726956> a ns2:Class ;
+<https://cfpub.epa.gov/ecotox/cas/7727540> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_36896> .
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_50904> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/15092816> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_63248> ],
+        <http://purl.obolibrary.org/obo/CHEBI_147406> .
 
 <https://cfpub.epa.gov/ecotox/cas/7733020> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -4607,6 +4665,11 @@
         <http://purl.obolibrary.org/obo/CHEBI_58956>,
         <http://purl.obolibrary.org/obo/CHEBI_83976> .
 
+<http://purl.obolibrary.org/obo/CHEBI_147406> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24839>,
+        <http://purl.obolibrary.org/obo/CHEBI_47704> .
+
 <http://purl.obolibrary.org/obo/CHEBI_15318> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -4812,6 +4875,16 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_29347>,
         <http://purl.obolibrary.org/obo/CHEBI_62733> .
+
+<http://purl.obolibrary.org/obo/CHEBI_22651> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_conjugate_base_of> ;
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/50817> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_22586> ],
+        <http://purl.obolibrary.org/obo/CHEBI_24961> .
 
 <http://purl.obolibrary.org/obo/CHEBI_22681> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -5053,6 +5126,10 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_29256> .
 
+<http://purl.obolibrary.org/obo/CHEBI_23866> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24026> .
+
 <http://purl.obolibrary.org/obo/CHEBI_23897> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -5173,10 +5250,6 @@
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24836>,
         <http://purl.obolibrary.org/obo/CHEBI_25940> .
 
-<http://purl.obolibrary.org/obo/CHEBI_24850> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24432> .
-
 <http://purl.obolibrary.org/obo/CHEBI_24858> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -5185,21 +5258,11 @@
         <http://purl.obolibrary.org/obo/CHEBI_24860>,
         <http://purl.obolibrary.org/obo/CHEBI_33958> .
 
-<http://purl.obolibrary.org/obo/CHEBI_24859> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_77746> ],
-        [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_27027> ],
-        <http://purl.obolibrary.org/obo/CHEBI_24473> .
-
 <http://purl.obolibrary.org/obo/CHEBI_24860> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
             ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_24859> ],
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/14362448> ],
         <http://purl.obolibrary.org/obo/CHEBI_24471> .
 
 <http://purl.obolibrary.org/obo/CHEBI_24897> a ns2:Class ;
@@ -5210,6 +5273,15 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_38101>,
         <http://purl.obolibrary.org/obo/CHEBI_38166> .
+
+<http://purl.obolibrary.org/obo/CHEBI_24961> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33721> .
+
+<http://purl.obolibrary.org/obo/CHEBI_24963> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33720>,
+        <http://purl.obolibrary.org/obo/CHEBI_35381> .
 
 <http://purl.obolibrary.org/obo/CHEBI_25016> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -5328,11 +5400,6 @@
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_24852> ],
         <http://purl.obolibrary.org/obo/CHEBI_38656> .
 
-<http://purl.obolibrary.org/obo/CHEBI_25706> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25196>,
-        <http://purl.obolibrary.org/obo/CHEBI_25707> .
-
 <http://purl.obolibrary.org/obo/CHEBI_25708> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25711> .
@@ -5350,14 +5417,6 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25707>,
         <http://purl.obolibrary.org/obo/CHEBI_27008> .
-
-<http://purl.obolibrary.org/obo/CHEBI_25805> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_33937> ],
-        <http://purl.obolibrary.org/obo/CHEBI_25585>,
-        <http://purl.obolibrary.org/obo/CHEBI_33303> .
 
 <http://purl.obolibrary.org/obo/CHEBI_25807> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#1_STAR> ;
@@ -5391,6 +5450,10 @@
 <http://purl.obolibrary.org/obo/CHEBI_25996> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24631> .
+
+<http://purl.obolibrary.org/obo/CHEBI_26013> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_26645> .
 
 <http://purl.obolibrary.org/obo/CHEBI_26066> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -5488,6 +5551,10 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_36963> .
 
+<http://purl.obolibrary.org/obo/CHEBI_26645> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33280> .
+
 <http://purl.obolibrary.org/obo/CHEBI_26650> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_15705>,
@@ -5519,11 +5586,6 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_22676>,
         <http://purl.obolibrary.org/obo/CHEBI_35703> .
-
-<http://purl.obolibrary.org/obo/CHEBI_26912> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25693>,
-        <http://purl.obolibrary.org/obo/CHEBI_38104> .
 
 <http://purl.obolibrary.org/obo/CHEBI_26959> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -5565,15 +5627,6 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24867>,
         <http://purl.obolibrary.org/obo/CHEBI_37253> .
-
-<http://purl.obolibrary.org/obo/CHEBI_27560> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_27027> ],
-        <http://purl.obolibrary.org/obo/CHEBI_137980>,
-        <http://purl.obolibrary.org/obo/CHEBI_25585>,
-        <http://purl.obolibrary.org/obo/CHEBI_33317> .
 
 <http://purl.obolibrary.org/obo/CHEBI_28694> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -6197,6 +6250,10 @@
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35352>,
         <http://purl.obolibrary.org/obo/CHEBI_35362> .
 
+<http://purl.obolibrary.org/obo/CHEBI_35381> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_16646> .
+
 <http://purl.obolibrary.org/obo/CHEBI_35401> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35403>,
@@ -6618,6 +6675,10 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_36892> .
 
+<http://purl.obolibrary.org/obo/CHEBI_36896> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_36894> .
+
 <http://purl.obolibrary.org/obo/CHEBI_36897> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_36893> .
@@ -6626,14 +6687,6 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25703>,
         <http://purl.obolibrary.org/obo/CHEBI_37734> .
-
-<http://purl.obolibrary.org/obo/CHEBI_36959> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_tautomer_of> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_36958> ],
-        <http://purl.obolibrary.org/obo/CHEBI_36960>,
-        <http://purl.obolibrary.org/obo/CHEBI_64708> .
 
 <http://purl.obolibrary.org/obo/CHEBI_37126> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -6750,10 +6803,6 @@
 <http://purl.obolibrary.org/obo/CHEBI_37579> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_37578> .
-
-<http://purl.obolibrary.org/obo/CHEBI_37581> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25000> .
 
 <http://purl.obolibrary.org/obo/CHEBI_37592> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -7201,6 +7250,10 @@
         <http://purl.obolibrary.org/obo/CHEBI_38101>,
         <http://purl.obolibrary.org/obo/CHEBI_38104> .
 
+<http://purl.obolibrary.org/obo/CHEBI_47016> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_26912> .
+
 <http://purl.obolibrary.org/obo/CHEBI_47811> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35757>,
@@ -7213,10 +7266,6 @@
 <http://purl.obolibrary.org/obo/CHEBI_47881> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35871> .
-
-<http://purl.obolibrary.org/obo/CHEBI_47908> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_29256> .
 
 <http://purl.obolibrary.org/obo/CHEBI_47916> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -7339,15 +7388,6 @@
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_27171>,
         <http://purl.obolibrary.org/obo/CHEBI_38101>,
         <http://purl.obolibrary.org/obo/CHEBI_38106> .
-
-<http://purl.obolibrary.org/obo/CHEBI_48775> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_23357> ],
-        <http://purl.obolibrary.org/obo/CHEBI_30412>,
-        <http://purl.obolibrary.org/obo/CHEBI_60240>,
-        <https://cfpub.epa.gov/ecotox/cas/22537480> .
 
 <http://purl.obolibrary.org/obo/CHEBI_48819> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -7514,10 +7554,6 @@
 <http://purl.obolibrary.org/obo/CHEBI_50514> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35554> .
-
-<http://purl.obolibrary.org/obo/CHEBI_50527> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_22632> .
 
 <http://purl.obolibrary.org/obo/CHEBI_50533> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#1_STAR> ;
@@ -8128,6 +8164,10 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35223> .
 
+<http://purl.obolibrary.org/obo/CHEBI_63063> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33515> .
+
 <http://purl.obolibrary.org/obo/CHEBI_63161> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_63299> .
@@ -8212,10 +8252,6 @@
 <http://purl.obolibrary.org/obo/CHEBI_64712> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_36915> .
-
-<http://purl.obolibrary.org/obo/CHEBI_64857> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33232> .
 
 <http://purl.obolibrary.org/obo/CHEBI_64911> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -8441,11 +8477,6 @@
 <http://purl.obolibrary.org/obo/CHEBI_76214> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33836> .
-
-<http://purl.obolibrary.org/obo/CHEBI_76357> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33853>,
-        <http://purl.obolibrary.org/obo/CHEBI_35618> .
 
 <http://purl.obolibrary.org/obo/CHEBI_76567> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -8942,6 +8973,14 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35222> .
 
+<https://cfpub.epa.gov/ecotox/cas/10016327> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_tautomer_of> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_36958> ],
+        <http://purl.obolibrary.org/obo/CHEBI_36960>,
+        <http://purl.obolibrary.org/obo/CHEBI_64708> .
+
 <https://cfpub.epa.gov/ecotox/cas/10023742> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -9173,13 +9212,6 @@
         <http://purl.obolibrary.org/obo/CHEBI_39418>,
         <http://purl.obolibrary.org/obo/CHEBI_59554> .
 
-<https://cfpub.epa.gov/ecotox/cas/112403> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_76924> ],
-        <https://cfpub.epa.gov/ecotox/cas/308061452> .
-
 <https://cfpub.epa.gov/ecotox/cas/112801> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -9399,6 +9431,13 @@
             ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/79436> ],
         <http://purl.obolibrary.org/obo/CHEBI_35757> .
 
+<https://cfpub.epa.gov/ecotox/cas/13445493> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_conjugate_acid_of> ;
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/15092816> ],
+        <http://purl.obolibrary.org/obo/CHEBI_33402> .
+
 <https://cfpub.epa.gov/ecotox/cas/134523005> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -9592,6 +9631,16 @@
             ns2:onProperty <http://purl.obolibrary.org/obo/chebi#has_functional_parent> ;
             ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/71501> ],
         <http://purl.obolibrary.org/obo/CHEBI_35757> .
+
+<https://cfpub.epa.gov/ecotox/cas/14362448> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_77746> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_27027> ],
+        <http://purl.obolibrary.org/obo/CHEBI_24473> .
 
 <https://cfpub.epa.gov/ecotox/cas/14380622> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -9884,6 +9933,14 @@
         <http://purl.obolibrary.org/obo/CHEBI_37246>,
         <http://purl.obolibrary.org/obo/CHEBI_60242> .
 
+<https://cfpub.epa.gov/ecotox/cas/17778802> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_33937> ],
+        <http://purl.obolibrary.org/obo/CHEBI_25585>,
+        <http://purl.obolibrary.org/obo/CHEBI_33303> .
+
 <https://cfpub.epa.gov/ecotox/cas/17778880> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -9963,7 +10020,12 @@
 
 <https://cfpub.epa.gov/ecotox/cas/22537480> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33515> .
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_23357> ],
+        <http://purl.obolibrary.org/obo/CHEBI_30412>,
+        <http://purl.obolibrary.org/obo/CHEBI_60240>,
+        <http://purl.obolibrary.org/obo/CHEBI_63063> .
 
 <https://cfpub.epa.gov/ecotox/cas/22541908> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -10406,6 +10468,13 @@
         <http://purl.obolibrary.org/obo/CHEBI_140310>,
         <http://purl.obolibrary.org/obo/CHEBI_22723>,
         <http://purl.obolibrary.org/obo/CHEBI_26596> .
+
+<https://cfpub.epa.gov/ecotox/cas/50817> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_conjugate_acid_of> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_22651> ],
+        <http://purl.obolibrary.org/obo/CHEBI_24963> .
 
 <https://cfpub.epa.gov/ecotox/cas/513622> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -10885,6 +10954,15 @@
         <http://purl.obolibrary.org/obo/CHEBI_137980>,
         <http://purl.obolibrary.org/obo/CHEBI_33300> .
 
+<https://cfpub.epa.gov/ecotox/cas/7440428> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_27027> ],
+        <http://purl.obolibrary.org/obo/CHEBI_137980>,
+        <http://purl.obolibrary.org/obo/CHEBI_25585>,
+        <http://purl.obolibrary.org/obo/CHEBI_33317> .
+
 <https://cfpub.epa.gov/ecotox/cas/7440439> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33340> .
@@ -11342,6 +11420,11 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25865> .
 
+<https://cfpub.epa.gov/ecotox/cas/88324> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33853>,
+        <http://purl.obolibrary.org/obo/CHEBI_35618> .
+
 <https://cfpub.epa.gov/ecotox/cas/88891> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -11664,16 +11747,6 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_15734> .
 
-<http://purl.obolibrary.org/obo/CHEBI_23990> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#has_functional_parent> ;
-            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/64175> ],
-        [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#has_functional_parent> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_33575> ],
-        <http://purl.obolibrary.org/obo/CHEBI_33308> .
-
 <http://purl.obolibrary.org/obo/CHEBI_24060> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -11731,6 +11804,10 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24835>,
         <http://purl.obolibrary.org/obo/CHEBI_35175> .
+
+<http://purl.obolibrary.org/obo/CHEBI_24850> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24432> .
 
 <http://purl.obolibrary.org/obo/CHEBI_24875> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -11793,6 +11870,11 @@
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_58958> ],
         <http://purl.obolibrary.org/obo/CHEBI_26820>,
         <http://purl.obolibrary.org/obo/CHEBI_37826> .
+
+<http://purl.obolibrary.org/obo/CHEBI_25706> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25196>,
+        <http://purl.obolibrary.org/obo/CHEBI_25707> .
 
 <http://purl.obolibrary.org/obo/CHEBI_25711> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -11911,6 +11993,11 @@
 <http://purl.obolibrary.org/obo/CHEBI_26878> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_30879> .
+
+<http://purl.obolibrary.org/obo/CHEBI_26912> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25693>,
+        <http://purl.obolibrary.org/obo/CHEBI_38104> .
 
 <http://purl.obolibrary.org/obo/CHEBI_27008> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -12230,10 +12317,6 @@
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_22563>,
         <http://purl.obolibrary.org/obo/CHEBI_36358> .
 
-<http://purl.obolibrary.org/obo/CHEBI_33288> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25944> .
-
 <http://purl.obolibrary.org/obo/CHEBI_33289> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25944> .
@@ -12421,6 +12504,21 @@
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_36358>,
         <http://purl.obolibrary.org/obo/CHEBI_36916> .
 
+<http://purl.obolibrary.org/obo/CHEBI_33720> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_conjugate_acid_of> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_33721> ],
+        <http://purl.obolibrary.org/obo/CHEBI_16646>,
+        <http://purl.obolibrary.org/obo/CHEBI_33575> .
+
+<http://purl.obolibrary.org/obo/CHEBI_33721> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_conjugate_base_of> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_33720> ],
+        <http://purl.obolibrary.org/obo/CHEBI_29067> .
+
 <http://purl.obolibrary.org/obo/CHEBI_33745> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -12594,10 +12692,6 @@
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25696>,
         <http://purl.obolibrary.org/obo/CHEBI_35406>,
         <http://purl.obolibrary.org/obo/CHEBI_36963> .
-
-<http://purl.obolibrary.org/obo/CHEBI_35623> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35488> .
 
 <http://purl.obolibrary.org/obo/CHEBI_35715> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -12853,10 +12947,6 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33434> .
 
-<http://purl.obolibrary.org/obo/CHEBI_36896> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_36894> .
-
 <http://purl.obolibrary.org/obo/CHEBI_36902> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33242>,
@@ -12878,7 +12968,7 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
             ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_tautomer_of> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_36959> ],
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/10016327> ],
         <http://purl.obolibrary.org/obo/CHEBI_36960>,
         <http://purl.obolibrary.org/obo/CHEBI_64708> .
 
@@ -12914,6 +13004,10 @@
 <http://purl.obolibrary.org/obo/CHEBI_37527> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_51086> .
+
+<http://purl.obolibrary.org/obo/CHEBI_37581> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25000> .
 
 <http://purl.obolibrary.org/obo/CHEBI_37588> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -13135,6 +13229,10 @@
 <http://purl.obolibrary.org/obo/CHEBI_47868> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_23888> .
+
+<http://purl.obolibrary.org/obo/CHEBI_47908> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_29256> .
 
 <http://purl.obolibrary.org/obo/CHEBI_48109> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -13376,6 +13474,10 @@
 <http://purl.obolibrary.org/obo/CHEBI_64459> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33659> .
+
+<http://purl.obolibrary.org/obo/CHEBI_64857> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33232> .
 
 <http://purl.obolibrary.org/obo/CHEBI_64996> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -13905,6 +14007,13 @@
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_27311> ],
         <https://cfpub.epa.gov/ecotox/cas/308061452> .
 
+<https://cfpub.epa.gov/ecotox/cas/112403> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/RO_0000087> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_76924> ],
+        <https://cfpub.epa.gov/ecotox/cas/308061452> .
+
 <https://cfpub.epa.gov/ecotox/cas/118650> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35189>,
@@ -14181,6 +14290,14 @@
             ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_conjugate_acid_of> ;
             ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/18496258> ],
         <http://purl.obolibrary.org/obo/CHEBI_33535> .
+
+<https://cfpub.epa.gov/ecotox/cas/15092816> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_conjugate_base_of> ;
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/13445493> ],
+        <http://purl.obolibrary.org/obo/CHEBI_33482>,
+        <http://purl.obolibrary.org/obo/CHEBI_48154> .
 
 <https://cfpub.epa.gov/ecotox/cas/15194588> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -15017,10 +15134,6 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_51086> .
 
-<http://purl.obolibrary.org/obo/CHEBI_16646> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_78616> .
-
 <http://purl.obolibrary.org/obo/CHEBI_16705> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -15078,6 +15191,13 @@
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_30879>,
         <http://purl.obolibrary.org/obo/CHEBI_50047> .
 
+<http://purl.obolibrary.org/obo/CHEBI_22632> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/7440382> ],
+        <http://purl.obolibrary.org/obo/CHEBI_33302> .
+
 <http://purl.obolibrary.org/obo/CHEBI_22909> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24834>,
@@ -15121,6 +15241,16 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35508> .
 
+<http://purl.obolibrary.org/obo/CHEBI_23990> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#has_functional_parent> ;
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/64175> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#has_functional_parent> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_33575> ],
+        <http://purl.obolibrary.org/obo/CHEBI_33308> .
+
 <http://purl.obolibrary.org/obo/CHEBI_24329> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -15140,11 +15270,6 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24835>,
         <http://purl.obolibrary.org/obo/CHEBI_26020> .
-
-<http://purl.obolibrary.org/obo/CHEBI_24839> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24835>,
-        <http://purl.obolibrary.org/obo/CHEBI_24866> .
 
 <http://purl.obolibrary.org/obo/CHEBI_24867> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -15396,13 +15521,13 @@
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_32988> .
 
-<http://purl.obolibrary.org/obo/CHEBI_33280> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24432> .
-
 <http://purl.obolibrary.org/obo/CHEBI_33284> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_78295> .
+
+<http://purl.obolibrary.org/obo/CHEBI_33288> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25944> .
 
 <http://purl.obolibrary.org/obo/CHEBI_33292> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -15651,6 +15776,10 @@
             ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_tautomer_of> ;
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_35586> ],
         <https://cfpub.epa.gov/ecotox/cas/120730> .
+
+<http://purl.obolibrary.org/obo/CHEBI_35623> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35488> .
 
 <http://purl.obolibrary.org/obo/CHEBI_35819> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -16822,13 +16951,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
             ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/7778394> ],
         <http://purl.obolibrary.org/obo/CHEBI_35776> .
 
-<http://purl.obolibrary.org/obo/CHEBI_22632> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
-            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/7440382> ],
-        <http://purl.obolibrary.org/obo/CHEBI_33302> .
-
 <http://purl.obolibrary.org/obo/CHEBI_22698> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33855> .
@@ -16837,7 +16959,7 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
             ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_27560> ],
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/7440428> ],
         <http://purl.obolibrary.org/obo/CHEBI_33581> .
 
 <http://purl.obolibrary.org/obo/CHEBI_22928> a ns2:Class ;
@@ -16887,16 +17009,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24867>,
         <http://purl.obolibrary.org/obo/CHEBI_36916> .
 
-<http://purl.obolibrary.org/obo/CHEBI_24026> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_30879>,
-        <https://cfpub.epa.gov/ecotox/cas/66455183> .
-
-<http://purl.obolibrary.org/obo/CHEBI_24127> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25944>,
-        <http://purl.obolibrary.org/obo/CHEBI_35718> .
-
 <http://purl.obolibrary.org/obo/CHEBI_24431> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> .
 
@@ -16915,6 +17027,11 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
         <http://purl.obolibrary.org/obo/CHEBI_25806>,
         <http://purl.obolibrary.org/obo/CHEBI_33608>,
         <http://purl.obolibrary.org/obo/CHEBI_37577> .
+
+<http://purl.obolibrary.org/obo/CHEBI_24839> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24835>,
+        <http://purl.obolibrary.org/obo/CHEBI_24866> .
 
 <http://purl.obolibrary.org/obo/CHEBI_24873> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -17021,6 +17138,10 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_51447> .
 
+<http://purl.obolibrary.org/obo/CHEBI_33280> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24432> .
+
 <http://purl.obolibrary.org/obo/CHEBI_33303> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33560> .
@@ -17041,11 +17162,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_27081>,
         <http://purl.obolibrary.org/obo/CHEBI_33561> .
-
-<http://purl.obolibrary.org/obo/CHEBI_33402> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_26835>,
-        <http://purl.obolibrary.org/obo/CHEBI_33484> .
 
 <http://purl.obolibrary.org/obo/CHEBI_33426> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -17355,13 +17471,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33585>,
         <http://purl.obolibrary.org/obo/CHEBI_36562> .
 
-<http://purl.obolibrary.org/obo/CHEBI_37512> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25703>,
-        <http://purl.obolibrary.org/obo/CHEBI_25716>,
-        <http://purl.obolibrary.org/obo/CHEBI_37511>,
-        <http://purl.obolibrary.org/obo/CHEBI_37734> .
-
 <http://purl.obolibrary.org/obo/CHEBI_37734> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#1_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_26079>,
@@ -17443,15 +17552,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_26144>,
         <http://purl.obolibrary.org/obo/CHEBI_33860>,
         <http://purl.obolibrary.org/obo/CHEBI_50996> .
-
-<http://purl.obolibrary.org/obo/CHEBI_48154> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24836>,
-        <http://purl.obolibrary.org/obo/CHEBI_26835> .
-
-<http://purl.obolibrary.org/obo/CHEBI_51307> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35701> .
 
 <http://purl.obolibrary.org/obo/CHEBI_51356> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -17766,6 +17866,10 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33429>,
         <http://purl.obolibrary.org/obo/CHEBI_79389> .
 
+<http://purl.obolibrary.org/obo/CHEBI_16646> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_78616> .
+
 <http://purl.obolibrary.org/obo/CHEBI_16733> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -17819,6 +17923,11 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
 <http://purl.obolibrary.org/obo/CHEBI_22718> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35757> .
+
+<http://purl.obolibrary.org/obo/CHEBI_24127> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25944>,
+        <http://purl.obolibrary.org/obo/CHEBI_35718> .
 
 <http://purl.obolibrary.org/obo/CHEBI_24129> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -17925,6 +18034,11 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
 <http://purl.obolibrary.org/obo/CHEBI_33300> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33560> .
+
+<http://purl.obolibrary.org/obo/CHEBI_33402> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_26835>,
+        <http://purl.obolibrary.org/obo/CHEBI_33484> .
 
 <http://purl.obolibrary.org/obo/CHEBI_33457> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -18061,6 +18175,13 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24870> .
 
+<http://purl.obolibrary.org/obo/CHEBI_37512> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25703>,
+        <http://purl.obolibrary.org/obo/CHEBI_25716>,
+        <http://purl.obolibrary.org/obo/CHEBI_37511>,
+        <http://purl.obolibrary.org/obo/CHEBI_37734> .
+
 <http://purl.obolibrary.org/obo/CHEBI_37958> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33232> .
@@ -18080,6 +18201,11 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_136849> ],
         <http://purl.obolibrary.org/obo/CHEBI_47788>,
         <http://purl.obolibrary.org/obo/CHEBI_51689> .
+
+<http://purl.obolibrary.org/obo/CHEBI_48154> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24836>,
+        <http://purl.obolibrary.org/obo/CHEBI_26835> .
 
 <http://purl.obolibrary.org/obo/CHEBI_48354> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -18105,6 +18231,10 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
 <http://purl.obolibrary.org/obo/CHEBI_50908> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_52209> .
+
+<http://purl.obolibrary.org/obo/CHEBI_51307> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35701> .
 
 <http://purl.obolibrary.org/obo/CHEBI_51689> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -18301,6 +18431,11 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24870> .
 
+<http://purl.obolibrary.org/obo/CHEBI_24026> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_30879>,
+        <https://cfpub.epa.gov/ecotox/cas/66455183> .
+
 <http://purl.obolibrary.org/obo/CHEBI_24632> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33245> .
@@ -18321,7 +18456,7 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
             ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_25805> ],
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/17778802> ],
         <http://purl.obolibrary.org/obo/CHEBI_33304> .
 
 <http://purl.obolibrary.org/obo/CHEBI_27364> a ns2:Class ;
@@ -18387,13 +18522,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
 <http://purl.obolibrary.org/obo/CHEBI_3992> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_17087> .
-
-<http://purl.obolibrary.org/obo/CHEBI_47704> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
-            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/14798039> ],
-        <http://purl.obolibrary.org/obo/CHEBI_35276> .
 
 <http://purl.obolibrary.org/obo/CHEBI_50114> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -18468,13 +18596,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_22712>,
         <http://purl.obolibrary.org/obo/CHEBI_33859> .
-
-<http://purl.obolibrary.org/obo/CHEBI_23117> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_23116> ],
-        <http://purl.obolibrary.org/obo/CHEBI_24471> .
 
 <http://purl.obolibrary.org/obo/CHEBI_23924> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -18556,6 +18677,13 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_76773> .
 
+<http://purl.obolibrary.org/obo/CHEBI_47704> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
+            ns2:someValuesFrom <https://cfpub.epa.gov/ecotox/cas/14798039> ],
+        <http://purl.obolibrary.org/obo/CHEBI_35276> .
+
 <http://purl.obolibrary.org/obo/CHEBI_48218> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_35441> .
@@ -18619,6 +18747,13 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
             ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_tautomer_of> ;
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_59869> ],
         <http://purl.obolibrary.org/obo/CHEBI_33704> .
+
+<http://purl.obolibrary.org/obo/CHEBI_23117> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_23116> ],
+        <http://purl.obolibrary.org/obo/CHEBI_24471> .
 
 <http://purl.obolibrary.org/obo/CHEBI_23367> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -18807,11 +18942,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_22313> ],
         <http://purl.obolibrary.org/obo/CHEBI_33674> .
 
-<http://purl.obolibrary.org/obo/CHEBI_33482> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_26835>,
-        <http://purl.obolibrary.org/obo/CHEBI_33485> .
-
 <http://purl.obolibrary.org/obo/CHEBI_33676> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -18869,10 +18999,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_39418> ],
         <http://purl.obolibrary.org/obo/CHEBI_58953> .
 
-<http://purl.obolibrary.org/obo/CHEBI_63248> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_51086> .
-
 <http://purl.obolibrary.org/obo/chebi#is_substituent_group_from> a ns2:ObjectProperty .
 
 <https://cfpub.epa.gov/ecotox/cas/71501> a ns2:Class ;
@@ -18922,6 +19048,11 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_37622> .
 
+<http://purl.obolibrary.org/obo/CHEBI_33482> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_26835>,
+        <http://purl.obolibrary.org/obo/CHEBI_33485> .
+
 <http://purl.obolibrary.org/obo/CHEBI_33497> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf [ a ns2:Restriction ;
@@ -18942,6 +19073,10 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_51958>,
         <https://cfpub.epa.gov/ecotox/cas/66455183> .
+
+<http://purl.obolibrary.org/obo/CHEBI_35610> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_23888> .
 
 <http://purl.obolibrary.org/obo/CHEBI_35716> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -18982,6 +19117,10 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24840> .
 
+<http://purl.obolibrary.org/obo/CHEBI_63248> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_51086> .
+
 <http://purl.obolibrary.org/obo/CHEBI_78840> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_50860> .
@@ -19001,14 +19140,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
 <http://purl.obolibrary.org/obo/CHEBI_27081> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33521> .
-
-<http://purl.obolibrary.org/obo/CHEBI_29067> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_conjugate_base_of> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_33575> ],
-        <http://purl.obolibrary.org/obo/CHEBI_25696>,
-        <http://purl.obolibrary.org/obo/CHEBI_35406> .
 
 <http://purl.obolibrary.org/obo/CHEBI_30412> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -19030,14 +19161,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_28868> ],
         <http://purl.obolibrary.org/obo/CHEBI_25384>,
         <https://cfpub.epa.gov/ecotox/cas/66455183> .
-
-<http://purl.obolibrary.org/obo/CHEBI_35610> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_23888> .
-
-<http://purl.obolibrary.org/obo/CHEBI_35617> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_64047> .
 
 <http://purl.obolibrary.org/obo/CHEBI_48356> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -19070,11 +19193,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
 <http://purl.obolibrary.org/obo/CHEBI_63490> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_51086> .
-
-<http://purl.obolibrary.org/obo/CHEBI_64047> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33232>,
-        <http://purl.obolibrary.org/obo/CHEBI_78295> .
 
 <http://purl.obolibrary.org/obo/CHEBI_74783> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -19113,6 +19231,23 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33672>,
         <http://purl.obolibrary.org/obo/CHEBI_38166> .
+
+<http://purl.obolibrary.org/obo/CHEBI_29067> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_conjugate_base_of> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_33575> ],
+        <http://purl.obolibrary.org/obo/CHEBI_25696>,
+        <http://purl.obolibrary.org/obo/CHEBI_35406> .
+
+<http://purl.obolibrary.org/obo/CHEBI_35617> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_64047> .
+
+<http://purl.obolibrary.org/obo/CHEBI_64047> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33232>,
+        <http://purl.obolibrary.org/obo/CHEBI_78295> .
 
 <https://cfpub.epa.gov/ecotox/cas/64197> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -19165,10 +19300,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25212> .
 
-<http://purl.obolibrary.org/obo/CHEBI_22586> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_51086> .
-
 <http://purl.obolibrary.org/obo/CHEBI_33261> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_26835>,
@@ -19178,6 +19309,10 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_25698>,
         <http://purl.obolibrary.org/obo/CHEBI_33659> .
+
+<http://purl.obolibrary.org/obo/CHEBI_22586> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_51086> .
 
 <http://purl.obolibrary.org/obo/CHEBI_24852> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -19194,18 +19329,6 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
 <http://purl.obolibrary.org/obo/CHEBI_33287> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_33286> .
-
-<http://purl.obolibrary.org/obo/CHEBI_33575> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_conjugate_acid_of> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_29067> ],
-        [ a ns2:Restriction ;
-            ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
-            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_46883> ],
-        <http://purl.obolibrary.org/obo/CHEBI_35605>,
-        <http://purl.obolibrary.org/obo/CHEBI_36586>,
-        <http://purl.obolibrary.org/obo/CHEBI_64709> .
 
 <http://purl.obolibrary.org/obo/CHEBI_35274> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -19227,6 +19350,18 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_24532>,
         <http://purl.obolibrary.org/obo/CHEBI_33670> .
+
+<http://purl.obolibrary.org/obo/CHEBI_33575> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/chebi#is_conjugate_acid_of> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_29067> ],
+        [ a ns2:Restriction ;
+            ns2:onProperty <http://purl.obolibrary.org/obo/BFO_0000051> ;
+            ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_46883> ],
+        <http://purl.obolibrary.org/obo/CHEBI_35605>,
+        <http://purl.obolibrary.org/obo/CHEBI_36586>,
+        <http://purl.obolibrary.org/obo/CHEBI_64709> .
 
 <http://purl.obolibrary.org/obo/CHEBI_84735> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
@@ -19336,13 +19471,13 @@ ns1:SubsetProperty a ns2:AnnotationProperty .
             ns2:someValuesFrom <http://purl.obolibrary.org/obo/CHEBI_25384> ],
         <http://purl.obolibrary.org/obo/CHEBI_29067> .
 
-<http://purl.obolibrary.org/obo/CHEBI_50904> a ns2:Class ;
-    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
-    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_52209> .
-
 <http://purl.obolibrary.org/obo/CHEBI_64708> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
     rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_50860> .
+
+<http://purl.obolibrary.org/obo/CHEBI_50904> a ns2:Class ;
+    ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;
+    rdfs:subClassOf <http://purl.obolibrary.org/obo/CHEBI_52209> .
 
 <http://purl.obolibrary.org/obo/CHEBI_76967> a ns2:Class ;
     ns1:inSubset <http://purl.obolibrary.org/obo/chebi#3_STAR> ;

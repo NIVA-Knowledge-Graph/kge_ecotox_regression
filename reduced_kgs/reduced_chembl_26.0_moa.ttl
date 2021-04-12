@@ -153,6 +153,8 @@
 
 <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1207366> ns1:hasMechanism <http://rdf.ebi.ac.uk/resource/chembl/drug_mechanism/CHEMBL_MEC_5129> .
 
+<http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1237054> ns1:hasMechanism <http://rdf.ebi.ac.uk/resource/chembl/drug_mechanism/CHEMBL_MEC_1854> .
+
 <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1237065> ns1:hasMechanism <http://rdf.ebi.ac.uk/resource/chembl/drug_mechanism/CHEMBL_MEC_707> .
 
 <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1237080> ns1:hasMechanism <http://rdf.ebi.ac.uk/resource/chembl/drug_mechanism/CHEMBL_MEC_375> .
@@ -1534,8 +1536,6 @@
 <https://cfpub.epa.gov/ecotox/cas/183133962> ns1:hasMechanism <http://rdf.ebi.ac.uk/resource/chembl/drug_mechanism/CHEMBL_MEC_1105> .
 
 <https://cfpub.epa.gov/ecotox/cas/183319699> ns1:hasMechanism <http://rdf.ebi.ac.uk/resource/chembl/drug_mechanism/CHEMBL_MEC_243> .
-
-<https://cfpub.epa.gov/ecotox/cas/18378897> ns1:hasMechanism <http://rdf.ebi.ac.uk/resource/chembl/drug_mechanism/CHEMBL_MEC_1854> .
 
 <https://cfpub.epa.gov/ecotox/cas/184475352> ns1:hasMechanism <http://rdf.ebi.ac.uk/resource/chembl/drug_mechanism/CHEMBL_MEC_244> .
 
@@ -4749,7 +4749,7 @@
     ns1:hasTarget <http://rdf.ebi.ac.uk/resource/chembl/target/CHEMBL2311221> .
 
 <http://rdf.ebi.ac.uk/resource/chembl/drug_mechanism/CHEMBL_MEC_1854> a ns1:Mechanism ;
-    ns1:hasMolecule <https://cfpub.epa.gov/ecotox/cas/18378897> ;
+    ns1:hasMolecule <http://rdf.ebi.ac.uk/resource/chembl/molecule/CHEMBL1237054> ;
     ns1:hasTarget <http://rdf.ebi.ac.uk/resource/chembl/target/CHEMBL2311221> .
 
 <http://rdf.ebi.ac.uk/resource/chembl/drug_mechanism/CHEMBL_MEC_1855> a ns1:Mechanism ;
