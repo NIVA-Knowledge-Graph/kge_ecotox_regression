@@ -2,7 +2,16 @@ from tensorflow.keras import Model, Sequential
 from tensorflow.keras.layers import Input, Embedding, Dense, Dropout, Conv2D, Flatten, Concatenate, Multiply
 import tensorflow as tf
 
-def TransE(entities,relations,dim=200,bias=1,lamb=1,norm_size=0.0):
+def min_distance_loss(w,epsilon=1.0):
+        
+    r = tf.reduce_sum(w*w, 1)
+
+    r = tf.reshape(r, [-1, 1])
+    D = r - 2*tf.matmul(w, tf.transpose(w)) + tf.transpose(r)
+    D = D + tf.linalg.diag(epsilon * tf.ones(D.shape[0]))
+    return tf.reduce_sum(tf.where(D<epsilon,1.0,0.0))/tf.cast(w.shape[1],tf.float32)
+
+def TransE(entities,relations,dim=200,bias=1,lamb=1,norm_size=0.0,mdl=0.0):
     
     inp = Input((3,))
     inp_label = Input(())
@@ -18,7 +27,8 @@ def TransE(entities,relations,dim=200,bias=1,lamb=1,norm_size=0.0):
     
     loss = lamb - inp_label * score
     loss = tf.where(loss>0,loss,0) + \
-    norm_size * tf.norm(entity_embedding.weights[0],ord=2)**2
+    norm_size * tf.norm(entity_embedding.weights[0],ord=2)**2 + \
+    min_distance_loss(entity_embedding.weights[0]) * mdl
     
     model = Model(inputs=[inp,inp_label],outputs=score)
     model.add_loss(loss)
@@ -26,7 +36,7 @@ def TransE(entities,relations,dim=200,bias=1,lamb=1,norm_size=0.0):
     
     return model
 
-def DistMult(entities,relations,dim=200,norm_size=0.0):
+def DistMult(entities,relations,dim=200,norm_size=0.0,mdl=0.0):
     inp = Input((3,))
     inp_label = Input(())
     
@@ -42,13 +52,14 @@ def DistMult(entities,relations,dim=200,norm_size=0.0):
     model = Model(inputs=[inp,inp_label],outputs=score)
     
     loss = lambda true,pred: tf.reduce_sum(tf.math.log(1+tf.math.exp(-true*pred))) + \
-    norm_size * tf.norm(entity_embedding.weights[0],ord=2)**2
+    norm_size * tf.norm(entity_embedding.weights[0],ord=2)**2 + \
+    min_distance_loss(entity_embedding.weights[0],mdl) * mdl
     
     model.compile(optimizer='adam',loss=loss)
     
     return model
 
-def ComplEx(entities,relations,dim=200,norm_size=0.0):
+def ComplEx(entities,relations,dim=200,norm_size=0.0,mdl=0.0):
     inp = Input((3,))
     inp_label = Input(())
     
@@ -71,7 +82,8 @@ def ComplEx(entities,relations,dim=200,norm_size=0.0):
     model = Model(inputs=[inp,inp_label],outputs=score)
     
     loss = lambda true,pred: tf.reduce_sum(tf.math.log(1+tf.math.exp(-true*pred))) + \
-    norm_size * tf.norm(entity_embedding.weights[0],ord=2)**2 
+    norm_size * tf.norm(entity_embedding.weights[0],ord=2)**2 + \
+    min_distance_loss(entity_embedding.weights[0]) * mdl
     
     model.compile(optimizer='adam',loss=loss)
     
